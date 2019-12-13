@@ -1,2 +1,2 @@
 # ProxyList
-A Personal PAC Repository
+A Personal SwitchyOmega Proxy List
