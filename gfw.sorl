@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 12/13/2019
+; Date: 12/31/2019
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -53,6 +53,7 @@
 *.imgur.com
 *.independent.co.uk
 *.instagram.*
+*.jsfiddle.net
 *.kienizer.com
 *.lithium.com
 *.live.com
@@ -65,8 +66,11 @@
 *.nicovideo.jp
 *.ntdtv.*
 *.nytimes.*
+*.passwordhashing.com
+*.pinimg.com
 *.pinterest.com
 *.pki.goog
+*.proxifier.com
 *.ptt.cc
 *.quora.com
 *.quoracdn.net
