@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 12/31/2019
+; Date: 02/14/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -17,15 +17,19 @@
 *.blogspot.*
 *.bloomberg.com
 *.change.org
+*.chinafirewalltest.com
 *.comparitech.com
 *.crbug.com
 *.discordapp.*
 *.disqus.com
 *.dmm.*
 *.dongtaiwang.*
+*.dongxingdi.com
 *.dropbox.com
 *.edgecastcdn.net
 *.epochtimes.*
+*.expressvpn.com
+*.expressvpn.xyz
 *.facebook.*
 *.fb.com
 *.fbcdn.net
@@ -38,6 +42,7 @@
 *.gmail.com
 *.golang.org
 *.goo.gl
+*.google
 *.google-analytics.com
 *.google.*
 *.googleapis.*
@@ -50,6 +55,7 @@
 *.googlevideo.com
 *.greatfire.org
 *.gstatic.*
+*.hsbc.co.uk
 *.imgur.com
 *.independent.co.uk
 *.instagram.*
@@ -64,12 +70,14 @@
 *.nationalinterest.org
 *.ndtv.com
 *.nicovideo.jp
+*.nordvpn.com
 *.ntdtv.*
 *.nytimes.*
 *.passwordhashing.com
 *.pinimg.com
 *.pinterest.com
 *.pki.goog
+*.privateinternetaccess.com
 *.proxifier.com
 *.ptt.cc
 *.quora.com
@@ -78,6 +86,8 @@
 *.redd.it
 *.reddit.com
 *.redditmedia.com
+*.rferl.org
+*.rfi.fr
 *.rg3.github.io
 *.savefrom.*
 *.shadowsocks.org
@@ -90,14 +100,17 @@
 *.theguardian.com
 *.thepiratebay.org
 *.tinyurl.com
+*.torproject.org
 *.torrentkitty.*
 *.ttvnw.net
 *.twimg.*
 *.twitch.tv
 *.twitter.*
+*.uber.com
 *.urbandictionary.com
 *.vimeo.com
 *.w3schools.com
+*.wenxuecity.com
 *.wikileaks.org
 *.wikimedia.org
 *.wikipedia.org
@@ -108,3 +121,4 @@
 *.youtube-nocookie.*
 *.youtube.*
 *.ytimg.com
+*.zaobao.*
