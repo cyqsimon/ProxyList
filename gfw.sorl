@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 02/14/2020
+; Date: 03/03/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -64,15 +64,18 @@
 *.lithium.com
 *.live.com
 *.liveleak.com
+*.ltn.com.tw
 *.mediafire.*
 *.medium.com
 *.mega.*
+*.merlinblog.xyz
 *.nationalinterest.org
 *.ndtv.com
 *.nicovideo.jp
 *.nordvpn.com
 *.ntdtv.*
 *.nytimes.*
+*.openvpn.net
 *.passwordhashing.com
 *.pinimg.com
 *.pinterest.com
@@ -90,6 +93,7 @@
 *.rfi.fr
 *.rg3.github.io
 *.savefrom.*
+*.setn.com
 *.shadowsocks.org
 *.sitemeter.com
 *.skype.*
