@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 03/13/2020
+; Date: 03/23/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
 
@@ -9,12 +9,15 @@
 *.akamaihd.net
 *.amazon.*
 *.amazonaws.com
+*.armorgames.com
 *.askubuntu.com
 *.aslain.com
+*.avantree.com
 *.bbystatic.com
 *.bestbuy.com
 *.booking.com
 *.bootstrapcdn.com
+*.bose.com
 *.bstatic.com
 *.caniuse.com
 *.centos.org
@@ -41,6 +44,7 @@
 *.gitlab.com
 *.gnome.org
 *.gog.com
+*.graphicmama.com
 *.guerrillamail.com
 *.guim.co.uk
 *.handbrake.fr
@@ -52,21 +56,26 @@
 *.lichess1.org
 *.linustechtips.com
 *.logitechg.com
+*.mailchimp.com
 *.media-amazon.com
 *.minecraft.net
 *.miniclip.com
 *.miniclipcdn.com
+*.mozilla.net
 *.netgear.com
 *.netlimiter.com
 *.networkworld.com
 *.newegg.com
+*.nodejs.org
 *.notebookcheck.net
 *.openwrt.org
 *.picpick.*
 *.prismic.io
 *.proships.ru
 *.python.org
+*.rameerez.com
 *.redditstatic.com
+*.regex101.com
 *.rocketlanguages.com
 *.serverfault.com
 *.sitepoint.com
@@ -97,4 +106,5 @@
 *.whoscored.com
 *.wows-numbers.com
 *.wowstactic.tk
+*.xda-developers.com
 developer.mozilla.org

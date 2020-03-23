@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 03/13/2020
+; Date: 03/23/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -16,8 +16,11 @@
 *.blogger.com
 *.blogspot.*
 *.bloomberg.com
+*.businessinsider.com
+*.cdninstagram.com
 *.change.org
 *.chinafirewalltest.com
+*.chromium.org
 *.comparitech.com
 *.crbug.com
 *.dailymail.co.uk
@@ -107,6 +110,10 @@
 *.statically.io
 *.straitstimes.com
 *.t.co
+*.t.me
+*.techtimes.com
+*.telegram.org
+*.telesco.pe
 *.theguardian.com
 *.thepiratebay.org
 *.tinyurl.com
