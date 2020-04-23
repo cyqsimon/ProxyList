@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 03/23/2020
+; Date: 04/23/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
 
@@ -21,6 +21,7 @@
 *.bstatic.com
 *.caniuse.com
 *.centos.org
+*.chartbeat.net
 *.chrome-extension-downloader.com
 *.code-maven.com
 *.codepen.io
@@ -32,12 +33,14 @@
 *.disqus.com
 *.disquscdn.com
 *.electrek.co
+*.eol.org
 *.expedia.com
 *.fileinfo.com
 *.flaticon.com
 *.gamemodels3d.com
 *.gameservers.global
 *.gcdn.co
+*.geoguessr.com
 *.github.com
 *.githubassets.com
 *.gitlab-static.net
@@ -45,6 +48,7 @@
 *.gnome.org
 *.gog.com
 *.graphicmama.com
+*.greasyfork.org
 *.guerrillamail.com
 *.guim.co.uk
 *.handbrake.fr
@@ -66,8 +70,10 @@
 *.netlimiter.com
 *.networkworld.com
 *.newegg.com
+*.nitrome.com
 *.nodejs.org
 *.notebookcheck.net
+*.onezoom.org
 *.openwrt.org
 *.picpick.*
 *.prismic.io
@@ -84,6 +90,7 @@
 *.stackexchange.com
 *.stackoverflow.com
 *.steampowered.com
+*.streamelements.com
 *.superuser.com
 *.tacdn.com
 *.techet.net
@@ -98,12 +105,16 @@
 *.tripodcloud.com
 *.ttvnw.net
 *.turnto.com
+*.tvnz.co.nz
 *.twitchcdn.net
+*.typekit.net
 *.typekit.net
 *.upload.ac
 *.wargaming.net
+*.web.app
 *.wgcdn.co
 *.whoscored.com
+*.worldometers.info
 *.wows-numbers.com
 *.wowstactic.tk
 *.xda-developers.com

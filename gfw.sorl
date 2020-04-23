@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 03/23/2020
+; Date: 04/23/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -11,6 +11,7 @@
 *.bandwagonhost.com
 *.bbc.*
 *.bbci.co.uk
+*.biodigital.com
 *.bit.ly
 *.blogblog.com
 *.blogger.com
@@ -27,10 +28,13 @@
 *.discordapp.*
 *.disqus.com
 *.dmm.*
+*.dmoe.moe
 *.dongtaiwang.*
 *.dongxingdi.com
 *.dropbox.com
 *.duckduckgo.com
+*.economist.com
+*.economistdesignsystem.com
 *.edgecastcdn.net
 *.epochtimes.*
 *.expressvpn.com
@@ -38,6 +42,8 @@
 *.facebook.*
 *.fb.com
 *.fbcdn.net
+*.fbcdn.net
+*.fbthirdpartypixel.com
 *.findyoutube.*
 *.getoutline.org
 *.gettyimages.com
@@ -45,6 +51,7 @@
 *.github-atom-io-herokuapp-com.freetls.fastly.net
 *.githubusercontent.com
 *.gmail.com
+*.gofundme.com
 *.golang.org
 *.goo.gl
 *.google-analytics.com
@@ -55,14 +62,17 @@
 *.googlecommerce.com
 *.googlegroups.*
 *.googlesource.com
+*.googletagmanager.com
 *.googleusercontent.*
 *.googlevideo.com
 *.greatfire.org
 *.gstatic.*
 *.hsbc.co.uk
+*.html5rocks.com
 *.imgur.com
 *.independent.co.uk
 *.instagram.*
+*.internetdownloadmanager.com
 *.jsfiddle.net
 *.kienizer.com
 *.lithium.com
@@ -70,10 +80,12 @@
 *.liveleak.com
 *.ltn.com.tw
 *.mediafire.*
+*.medicalnewstoday.com
 *.medium.com
 *.mega.*
 *.merlinblog.xyz
 *.nationalinterest.org
+*.nbcnews.com
 *.ndtv.com
 *.nextshark.com
 *.nicovideo.jp
@@ -81,6 +93,8 @@
 *.ntdtv.*
 *.nypost.com
 *.nytimes.*
+*.oculus.com
+*.oculuscdn.com
 *.openvpn.net
 *.passwordhashing.com
 *.pinimg.com
@@ -96,9 +110,11 @@
 *.redd.it
 *.reddit.com
 *.redditmedia.com
+*.regexr.com
 *.rferl.org
 *.rfi.fr
 *.rg3.github.io
+*.rocketcdn.me
 *.savefrom.*
 *.setn.com
 *.shadowsocks.org
@@ -106,6 +122,7 @@
 *.skype.*
 *.slate.com
 *.soundcloud.com
+*.spreadshirt.com
 *.ssr.tools
 *.statically.io
 *.straitstimes.com
@@ -119,6 +136,7 @@
 *.tinyurl.com
 *.torproject.org
 *.torrentkitty.*
+*.transparency.org
 *.ttvnw.net
 *.twimg.*
 *.twitch.tv
@@ -130,6 +148,7 @@
 *.voy.com
 *.w3schools.com
 *.wenxuecity.com
+*.wikidata.org
 *.wikileaks.org
 *.wikimedia.org
 *.wikipedia.org
