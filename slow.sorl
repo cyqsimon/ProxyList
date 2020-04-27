@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/23/2020
+; Date: 04/27/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
 
@@ -28,6 +28,7 @@
 *.commutercreative.com
 *.cpuid.com
 *.css-tricks.com
+*.curiositystream.com
 *.cxense.com
 *.discourse-cdn.com
 *.disqus.com
@@ -59,6 +60,8 @@
 *.lichess.org
 *.lichess1.org
 *.linustechtips.com
+*.linux.com
+*.linuxize.com
 *.logitechg.com
 *.mailchimp.com
 *.media-amazon.com
@@ -91,6 +94,7 @@
 *.stackoverflow.com
 *.steampowered.com
 *.streamelements.com
+*.stripe.network
 *.superuser.com
 *.tacdn.com
 *.techet.net
@@ -111,6 +115,7 @@
 *.typekit.net
 *.upload.ac
 *.wargaming.net
+*.watchnebula.com
 *.web.app
 *.wgcdn.co
 *.whoscored.com
@@ -118,4 +123,5 @@
 *.wows-numbers.com
 *.wowstactic.tk
 *.xda-developers.com
+*.zype.com
 developer.mozilla.org

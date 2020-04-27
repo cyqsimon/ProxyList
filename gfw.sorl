@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/23/2020
+; Date: 04/27/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -25,6 +25,7 @@
 *.comparitech.com
 *.crbug.com
 *.dailymail.co.uk
+*.dev.to
 *.discordapp.*
 *.disqus.com
 *.dmm.*
@@ -154,6 +155,7 @@
 *.wikipedia.org
 *.wiktionary.org
 *.wordpress.*
+*.ycombinator.com
 *.yimg.com
 *.youtu.be
 *.youtube-nocookie.*
