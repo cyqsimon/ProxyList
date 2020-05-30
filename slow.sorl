@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/27/2020
+; Date: 05/31/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
 
@@ -19,9 +19,12 @@
 *.bootstrapcdn.com
 *.bose.com
 *.bstatic.com
+*.butlerfortrello.com
 *.caniuse.com
 *.centos.org
 *.chartbeat.net
+*.chess.com
+*.chesstempo.com
 *.chrome-extension-downloader.com
 *.code-maven.com
 *.codepen.io
@@ -42,6 +45,7 @@
 *.gameservers.global
 *.gcdn.co
 *.geoguessr.com
+*.giphy.com
 *.github.com
 *.githubassets.com
 *.gitlab-static.net
@@ -53,6 +57,7 @@
 *.guerrillamail.com
 *.guim.co.uk
 *.handbrake.fr
+*.imidc.com
 *.jhu.edu
 *.jtvnw.net
 *.karellodewijk.github.io
@@ -69,6 +74,7 @@
 *.miniclip.com
 *.miniclipcdn.com
 *.mozilla.net
+*.namecheap.com
 *.netgear.com
 *.netlimiter.com
 *.networkworld.com
@@ -89,6 +95,7 @@
 *.serverfault.com
 *.sitepoint.com
 *.slidesgo.com
+*.spacex.com
 *.sstatic.net
 *.stackexchange.com
 *.stackoverflow.com
@@ -96,6 +103,7 @@
 *.streamelements.com
 *.stripe.network
 *.superuser.com
+*.supervisord.org
 *.tacdn.com
 *.techet.net
 *.techpowerup.com
@@ -103,8 +111,11 @@
 *.telerik.com
 *.thesaurus.com
 *.thetypingcat.com
+*.theweekinchess.com
 *.travel-assets.com
 *.travian.com
+*.trello.com
+*.trellocdn.com
 *.tripadvisor.com
 *.tripodcloud.com
 *.ttvnw.net

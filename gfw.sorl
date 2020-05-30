@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/27/2020
+; Date: 05/31/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -46,6 +46,7 @@
 *.fbcdn.net
 *.fbthirdpartypixel.com
 *.findyoutube.*
+*.freetls.fastly.net
 *.getoutline.org
 *.gettyimages.com
 *.gist.github.com
@@ -76,6 +77,7 @@
 *.internetdownloadmanager.com
 *.jsfiddle.net
 *.kienizer.com
+*.knowyourmeme.com
 *.lithium.com
 *.live.com
 *.liveleak.com
@@ -96,6 +98,7 @@
 *.nytimes.*
 *.oculus.com
 *.oculuscdn.com
+*.openspf.org
 *.openvpn.net
 *.passwordhashing.com
 *.pinimg.com
@@ -137,6 +140,7 @@
 *.tinyurl.com
 *.torproject.org
 *.torrentkitty.*
+*.toutyrater.github.io
 *.transparency.org
 *.ttvnw.net
 *.twimg.*
@@ -145,6 +149,7 @@
 *.twitter.*
 *.uber.com
 *.urbandictionary.com
+*.v2ray.com
 *.vimeo.com
 *.voy.com
 *.w3schools.com
@@ -155,6 +160,7 @@
 *.wikipedia.org
 *.wiktionary.org
 *.wordpress.*
+*.wp.com
 *.ycombinator.com
 *.yimg.com
 *.youtu.be
