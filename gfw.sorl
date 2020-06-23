@@ -1,9 +1,10 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 05/31/2020
+; Date: 06/23/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
+*.9to5google.com
 *.android.com
 *.apkmirror.com
 *.appspot.com
@@ -127,6 +128,7 @@
 *.slate.com
 *.soundcloud.com
 *.spreadshirt.com
+*.spys.one
 *.ssr.tools
 *.statically.io
 *.straitstimes.com
@@ -159,6 +161,7 @@
 *.wikimedia.org
 *.wikipedia.org
 *.wiktionary.org
+*.withgoogle.com
 *.wordpress.*
 *.wp.com
 *.ycombinator.com
@@ -168,3 +171,4 @@
 *.youtube.*
 *.ytimg.com
 *.zaobao.*
+api.dart.dev

@@ -1,8 +1,9 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 05/31/2020
+; Date: 06/23/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
+
 
 *.adobe.com
 *.airbnb.com
@@ -20,6 +21,7 @@
 *.bose.com
 *.bstatic.com
 *.butlerfortrello.com
+*.campaignlive.co.uk
 *.caniuse.com
 *.centos.org
 *.chartbeat.net
@@ -33,6 +35,7 @@
 *.css-tricks.com
 *.curiositystream.com
 *.cxense.com
+*.dictionary.com
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
