@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 06/23/2020
+; Date: 08/04/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -35,6 +35,7 @@
 *.dongxingdi.com
 *.dropbox.com
 *.duckduckgo.com
+*.dw.com
 *.economist.com
 *.economistdesignsystem.com
 *.edgecastcdn.net
@@ -50,8 +51,10 @@
 *.freetls.fastly.net
 *.getoutline.org
 *.gettyimages.com
+*.ghacks.net
 *.gist.github.com
 *.github-atom-io-herokuapp-com.freetls.fastly.net
+*.github.blog
 *.githubusercontent.com
 *.gmail.com
 *.gofundme.com
@@ -79,6 +82,7 @@
 *.jsfiddle.net
 *.kienizer.com
 *.knowyourmeme.com
+*.lidarusa.com
 *.lithium.com
 *.live.com
 *.liveleak.com
@@ -96,6 +100,7 @@
 *.nordvpn.com
 *.ntdtv.*
 *.nypost.com
+*.nyt.com
 *.nytimes.*
 *.oculus.com
 *.oculuscdn.com
@@ -116,6 +121,8 @@
 *.reddit.com
 *.redditmedia.com
 *.regexr.com
+*.restoreprivacy.com
+*.reuters.com
 *.rferl.org
 *.rfi.fr
 *.rg3.github.io
@@ -131,6 +138,7 @@
 *.spys.one
 *.ssr.tools
 *.statically.io
+*.steamcommunity.com
 *.straitstimes.com
 *.t.co
 *.t.me
@@ -139,6 +147,7 @@
 *.telesco.pe
 *.theguardian.com
 *.thepiratebay.org
+*.tineye.com
 *.tinyurl.com
 *.torproject.org
 *.torrentkitty.*
@@ -153,6 +162,7 @@
 *.urbandictionary.com
 *.v2ray.com
 *.vimeo.com
+*.voanews.com
 *.voy.com
 *.w3schools.com
 *.wenxuecity.com

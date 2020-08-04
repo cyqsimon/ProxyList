@@ -1,10 +1,10 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 06/23/2020
+; Date: 08/04/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
 
-
+*.accuweather.com
 *.adobe.com
 *.airbnb.com
 *.akamaihd.net
@@ -23,19 +23,23 @@
 *.butlerfortrello.com
 *.campaignlive.co.uk
 *.caniuse.com
+*.cdpn.io
 *.centos.org
 *.chartbeat.net
 *.chess.com
 *.chesstempo.com
 *.chrome-extension-downloader.com
+*.cloudflare.com
 *.code-maven.com
 *.codepen.io
 *.commutercreative.com
 *.cpuid.com
+*.cryorig.com
 *.css-tricks.com
 *.curiositystream.com
 *.cxense.com
 *.dictionary.com
+*.discord.com
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
@@ -61,6 +65,8 @@
 *.guim.co.uk
 *.handbrake.fr
 *.imidc.com
+*.impossiblefoods.com
+*.iqdb.org
 *.jhu.edu
 *.jtvnw.net
 *.karellodewijk.github.io
@@ -85,6 +91,8 @@
 *.nitrome.com
 *.nodejs.org
 *.notebookcheck.net
+*.notepad-plus-plus.org
+*.officedev.github.io
 *.onezoom.org
 *.openwrt.org
 *.picpick.*
@@ -112,6 +120,7 @@
 *.techpowerup.com
 *.techtarget.com
 *.telerik.com
+*.thermal-grizzly.com
 *.thesaurus.com
 *.thetypingcat.com
 *.theweekinchess.com
@@ -128,11 +137,13 @@
 *.typekit.net
 *.typekit.net
 *.upload.ac
+*.wacom.com
 *.wargaming.net
 *.watchnebula.com
 *.web.app
 *.wgcdn.co
 *.whoscored.com
+*.wolfram.com
 *.worldometers.info
 *.wows-numbers.com
 *.wowstactic.tk
