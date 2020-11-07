@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 08/04/2020
+; Date: 11/7/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of banned (or practically banned) sites in China
 
@@ -9,7 +9,9 @@
 *.apkmirror.com
 *.appspot.com
 *.archive.org
+*.b-ok.cc
 *.bandwagonhost.com
+*.bannedbook.org
 *.bbc.*
 *.bbci.co.uk
 *.biodigital.com
@@ -22,12 +24,15 @@
 *.cdninstagram.com
 *.change.org
 *.chinafirewalltest.com
+*.chrome.com
 *.chromium.org
+*.codecademy.com
 *.comparitech.com
 *.crbug.com
 *.dailymail.co.uk
 *.dev.to
 *.discordapp.*
+*.discuss.com.hk
 *.disqus.com
 *.dmm.*
 *.dmoe.moe
@@ -126,12 +131,14 @@
 *.rfi.fr
 *.rg3.github.io
 *.rocketcdn.me
+*.s-nbcnews.com
 *.savefrom.*
 *.setn.com
 *.shadowsocks.org
 *.sitemeter.com
 *.skype.*
 *.slate.com
+*.sndcdn.com
 *.soundcloud.com
 *.spreadshirt.com
 *.spys.one
@@ -142,6 +149,7 @@
 *.t.co
 *.t.me
 *.techtimes.com
+*.telegra.ph
 *.telegram.org
 *.telesco.pe
 *.theguardian.com
@@ -160,11 +168,15 @@
 *.uber.com
 *.urbandictionary.com
 *.v2ray.com
+*.v8.dev
 *.vimeo.com
+*.voachinese.com
 *.voanews.com
 *.voy.com
 *.w3schools.com
+*.washingtonpost.com
 *.wenxuecity.com
+*.wikibooks.org
 *.wikidata.org
 *.wikileaks.org
 *.wikimedia.org
