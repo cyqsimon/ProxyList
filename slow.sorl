@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/7/2020
+; Date: 12/9/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
 
@@ -8,9 +8,12 @@
 *.adobe.com
 *.advancedrenamer.com
 *.airbnb.com
+*.airtable.com
+*.airtableblocks.com
 *.akamaihd.net
 *.amazon.*
 *.amazonaws.com
+*.amp-what.com
 *.armorgames.com
 *.askubuntu.com
 *.aslain.com
@@ -36,6 +39,7 @@
 *.coderwall.com
 *.commutercreative.com
 *.cpuid.com
+*.crates.io
 *.cryorig.com
 *.css-tricks.com
 *.curiositystream.com
@@ -51,9 +55,11 @@
 *.fedoraproject.org
 *.fileinfo.com
 *.flaticon.com
+*.flcl.eu
 *.gamemodels3d.com
 *.gameservers.global
 *.gcdn.co
+*.geeksforgeeks.org
 *.geoguessr.com
 *.giphy.com
 *.github.com
@@ -78,6 +84,8 @@
 *.jtvnw.net
 *.karellodewijk.github.io
 *.kickstarter.com
+*.kstrom.com
+*.learning-rust.github.io
 *.lichess.org
 *.lichess1.org
 *.linustechtips.com
@@ -91,6 +99,7 @@
 *.miniclip.com
 *.miniclipcdn.com
 *.mozilla.net
+*.muscache.com
 *.namecheap.com
 *.netgear.com
 *.netlimiter.com
@@ -108,12 +117,14 @@
 *.pix4d.com
 *.prismic.io
 *.proships.ru
+*.pximg.net
 *.python.org
 *.rameerez.com
 *.redditstatic.com
 *.regex101.com
 *.regexr.com
 *.rocketlanguages.com
+*.ruffle.rs
 *.rust-lang.org
 *.searchpreview.de
 *.serverfault.com
@@ -139,6 +150,7 @@
 *.thesaurus.com
 *.thetypingcat.com
 *.theweekinchess.com
+*.tomshardware.com
 *.travel-assets.com
 *.travian.com
 *.trello.com
@@ -151,6 +163,7 @@
 *.twitchcdn.net
 *.typekit.net
 *.typekit.net
+*.typing.works
 *.upload.ac
 *.userbenchmark.com
 *.visualstudio.com
@@ -160,6 +173,7 @@
 *.web.app
 *.wgcdn.co
 *.whoscored.com
+*.winscp.net
 *.wolfram.com
 *.worldometers.info
 *.wows-numbers.com
