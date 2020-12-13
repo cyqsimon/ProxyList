@@ -3,6 +3,7 @@
 ; Date: 12/9/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: A list of accessible but slow sites in China
+; Fuck GFW.
 
 *.accuweather.com
 *.adobe.com
