@@ -2,7 +2,7 @@
 ; Require: SwitchyOmega >= 2.3.2
 ; Date: 11/7/2020
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
-; Description: A list of banned (or practically banned) sites in China
+; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
 
 *.9to5google.com
