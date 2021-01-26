@@ -1,10 +1,11 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 19/12/2020
+; Date: 1/26/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
 
+*.a2hosting.co.uk
 *.accuweather.com
 *.adobe.com
 *.advancedrenamer.com
@@ -33,12 +34,14 @@
 *.chartbeat.net
 *.chess.com
 *.chesstempo.com
+*.chinafirewalltest.com
 *.chrome-extension-downloader.com
 *.cloudflare.com
 *.code-maven.com
 *.codepen.io
 *.coderwall.com
 *.commutercreative.com
+*.computerworld.com
 *.cpuid.com
 *.crates.io
 *.cryorig.com
@@ -57,6 +60,7 @@
 *.fileinfo.com
 *.flaticon.com
 *.flcl.eu
+*.fontflipper.com
 *.gamemodels3d.com
 *.gameservers.global
 *.gcdn.co
@@ -78,20 +82,25 @@
 *.healthdata.org
 *.i2ocr.com
 *.ietf.org
+*.imdb.com
 *.imidc.com
 *.impossiblefoods.com
 *.iqdb.org
 *.jhu.edu
 *.jtvnw.net
 *.karellodewijk.github.io
+*.kernel.org
+*.keybr.com
 *.kickstarter.com
 *.kstrom.com
 *.learning-rust.github.io
 *.lichess.org
+*.lichess.ovh
 *.lichess1.org
 *.linustechtips.com
 *.linux.com
 *.linuxize.com
+*.literatumonline.com
 *.logitechg.com
 *.mailchimp.com
 *.media-amazon.com
@@ -102,6 +111,7 @@
 *.mozilla.net
 *.muscache.com
 *.namecheap.com
+*.nano-editor.org
 *.netgear.com
 *.netlimiter.com
 *.networkworld.com
@@ -110,6 +120,7 @@
 *.nodejs.org
 *.notebookcheck.net
 *.notepad-plus-plus.org
+*.objgen.com
 *.officedev.github.io
 *.onezoom.org
 *.openwrt.org
@@ -122,8 +133,10 @@
 *.python.org
 *.rameerez.com
 *.redditstatic.com
+*.redhat.com
 *.regex101.com
 *.regexr.com
+*.returnpath.com
 *.rocketlanguages.com
 *.ruffle.rs
 *.rust-lang.org
@@ -137,7 +150,9 @@
 *.stackexchange.com
 *.stackoverflow.com
 *.steampowered.com
+*.stockfishchess.org
 *.streamelements.com
+*.streamscheme.com
 *.stripe.network
 *.superuser.com
 *.supervisord.org
@@ -147,11 +162,14 @@
 *.techtarget.com
 *.telegram.org
 *.telerik.com
+*.thegeekdiary.com
+*.thelancet.com
 *.thermal-grizzly.com
 *.thesaurus.com
 *.thetypingcat.com
 *.theweekinchess.com
 *.tomshardware.com
+*.trace.moe
 *.travel-assets.com
 *.travian.com
 *.trello.com
@@ -166,15 +184,19 @@
 *.typing.works
 *.upload.ac
 *.userbenchmark.com
+*.validity.com
 *.visualstudio.com
 *.wacom.com
+*.waifulabs.com
 *.wargaming.net
 *.watchnebula.com
 *.web.app
 *.wgcdn.co
 *.whoscored.com
+*.wikitravel.org
 *.winscp.net
 *.wolfram.com
+*.worldofwarships.asia
 *.worldometers.info
 *.wows-numbers.com
 *.wowstactic.tk

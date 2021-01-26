@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/7/2020
+; Date: 1/26/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -49,8 +49,8 @@
 *.expressvpn.com
 *.expressvpn.xyz
 *.facebook.*
+*.factpedia.org
 *.fb.com
-*.fbcdn.net
 *.fbcdn.net
 *.fbthirdpartypixel.com
 *.findyoutube.*
@@ -93,6 +93,7 @@
 *.live.com
 *.liveleak.com
 *.ltn.com.tw
+*.maketecheasier.com
 *.mediafire.*
 *.medicalnewstoday.com
 *.medium.com
@@ -123,6 +124,8 @@
 *.quora.com
 *.quoracdn.net
 *.rawgit.com
+*.redbubble.com
+*.redbubble.net
 *.redd.it
 *.reddit.com
 *.redditmedia.com
@@ -144,6 +147,7 @@
 *.spreadshirt.com
 *.spys.one
 *.ssr.tools
+*.stackpath.com
 *.statically.io
 *.steamcommunity.com
 *.straitstimes.com
@@ -159,9 +163,11 @@
 *.tinyurl.com
 *.torproject.org
 *.torrentkitty.*
+*.tothenew.com
 *.toutyrater.github.io
 *.transparency.org
 *.ttvnw.net
+*.tumblr.com
 *.twimg.*
 *.twitch.tv
 *.twitchcon.com
@@ -182,6 +188,7 @@
 *.wikileaks.org
 *.wikimedia.org
 *.wikipedia.org
+*.wikivoyage.org
 *.wiktionary.org
 *.withgoogle.com
 *.wordpress.*
