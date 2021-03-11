@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 1/26/2021
+; Date: 3/11/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -16,6 +16,7 @@
 *.amazon.*
 *.amazonaws.com
 *.amp-what.com
+*.appveyor.com
 *.armorgames.com
 *.askubuntu.com
 *.aslain.com
@@ -32,6 +33,7 @@
 *.cdpn.io
 *.centos.org
 *.chartbeat.net
+*.cheats.rs
 *.chess.com
 *.chesstempo.com
 *.chinafirewalltest.com
@@ -66,6 +68,7 @@
 *.gcdn.co
 *.geeksforgeeks.org
 *.geoguessr.com
+*.ggpht.com
 *.giphy.com
 *.github.com
 *.githubassets.com
@@ -80,6 +83,8 @@
 *.guim.co.uk
 *.handbrake.fr
 *.healthdata.org
+*.hsappstatic.net
+*.hubspot.com
 *.i2ocr.com
 *.ietf.org
 *.imdb.com
@@ -92,6 +97,7 @@
 *.kernel.org
 *.keybr.com
 *.kickstarter.com
+*.killerfishgames.com
 *.kstrom.com
 *.learning-rust.github.io
 *.lichess.org
@@ -103,19 +109,22 @@
 *.literatumonline.com
 *.logitechg.com
 *.mailchimp.com
-*.media-amazon.com
+*.mbebenita.github.io
 *.media-amazon.com
 *.minecraft.net
 *.miniclip.com
 *.miniclipcdn.com
+*.monkeytype.com
 *.mozilla.net
 *.muscache.com
+*.mycolor.space
 *.namecheap.com
 *.nano-editor.org
 *.netgear.com
 *.netlimiter.com
 *.networkworld.com
 *.newegg.com
+*.newmediacampaigns.com
 *.nitrome.com
 *.nodejs.org
 *.notebookcheck.net
@@ -123,6 +132,10 @@
 *.objgen.com
 *.officedev.github.io
 *.onezoom.org
+*.online-tech-tips.com
+*.openhub.net
+*.opensource.com
+*.opensource.org
 *.openwrt.org
 *.pcpartpicker.com
 *.picpick.*
@@ -131,6 +144,8 @@
 *.proships.ru
 *.pximg.net
 *.python.org
+*.qbittorrent.org
+*.quad9.net
 *.rameerez.com
 *.redditstatic.com
 *.redhat.com
@@ -138,14 +153,19 @@
 *.regexr.com
 *.returnpath.com
 *.rocketlanguages.com
+*.rtings.com +direct
 *.ruffle.rs
+*.rust-analyzer.github.io
 *.rust-lang.org
+*.rustwasm.github.io
 *.searchpreview.de
+*.seasonic.com
 *.serverfault.com
 *.sitepoint.com
 *.slidesgo.com
 *.spacex.com
 *.ssl-images-amazon.com
+*.ssl.com
 *.sstatic.net
 *.stackexchange.com
 *.stackoverflow.com
@@ -169,6 +189,7 @@
 *.thetypingcat.com
 *.theweekinchess.com
 *.tomshardware.com
+*.tonedeaftest.com
 *.trace.moe
 *.travel-assets.com
 *.travian.com
@@ -182,20 +203,27 @@
 *.twitchcdn.net
 *.typekit.net
 *.typing.works
+*.ultrabookreview.com
 *.upload.ac
 *.userbenchmark.com
 *.validity.com
+*.vidyard.com
 *.visualstudio.com
+*.vogella.com
 *.wacom.com
 *.waifulabs.com
 *.wargaming.net
 *.watchnebula.com
 *.web.app
+*.webassembly.studio
 *.wgcdn.co
 *.whoscored.com
 *.wikitravel.org
 *.winscp.net
 *.wolfram.com
+*.wolframalpha.com
+*.wolframcdn.com
+*.wolframcloud.com
 *.worldofwarships.asia
 *.worldometers.info
 *.wows-numbers.com

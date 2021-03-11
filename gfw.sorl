@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 1/26/2021
+; Date: 3/11/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -8,6 +8,7 @@
 *.9to5google.com
 *.android.com
 *.apkmirror.com
+*.apkpure.com
 *.appspot.com
 *.archive.org
 *.b-ok.cc
@@ -17,6 +18,7 @@
 *.bbci.co.uk
 *.biodigital.com
 *.bit.ly
+*.blocklist.de
 *.blogblog.com
 *.blogger.com
 *.blogspot.*
@@ -28,6 +30,7 @@
 *.chrome.com
 *.chromium.org
 *.codecademy.com
+*.coderwall.com
 *.comparitech.com
 *.crbug.com
 *.dailymail.co.uk
@@ -35,11 +38,13 @@
 *.discordapp.*
 *.discuss.com.hk
 *.disqus.com
+*.dj1symwmxvldi.cloudfront.net
 *.dmm.*
 *.dmoe.moe
 *.dongtaiwang.*
 *.dongxingdi.com
 *.dropbox.com
+*.dropboxstatic.com
 *.duckduckgo.com
 *.dw.com
 *.economist.com
@@ -55,6 +60,7 @@
 *.fbthirdpartypixel.com
 *.findyoutube.*
 *.freetls.fastly.net
+*.fuchsia.dev
 *.getoutline.org
 *.gettyimages.com
 *.ghacks.net
@@ -77,8 +83,10 @@
 *.googletagmanager.com
 *.googleusercontent.*
 *.googlevideo.com
+*.gravatar.com
 *.greatfire.org
 *.gstatic.*
+*.hide-ip-proxy.com
 *.hsbc.co.uk
 *.html5rocks.com
 *.imgur.com
@@ -102,6 +110,8 @@
 *.nationalinterest.org
 *.nbcnews.com
 *.ndtv.com
+*.neow.in
+*.neowin.net
 *.nextshark.com
 *.nicovideo.jp
 *.nordvpn.com
@@ -114,6 +124,7 @@
 *.openspf.org
 *.openvpn.net
 *.passwordhashing.com
+*.pbs.org
 *.pinimg.com
 *.pinterest.com
 *.pki.goog
@@ -129,6 +140,7 @@
 *.redd.it
 *.reddit.com
 *.redditmedia.com
+*.resilio.com
 *.restoreprivacy.com
 *.reuters.com
 *.rferl.org
@@ -174,6 +186,7 @@
 *.twitter.*
 *.uber.com
 *.urbandictionary.com
+*.us-central1-monkey-type.cloudfunctions.net
 *.v2ray.com
 *.v8.dev
 *.vimeo.com
@@ -201,3 +214,4 @@
 *.ytimg.com
 *.zaobao.*
 api.dart.dev
+updates.tdesktop.com
