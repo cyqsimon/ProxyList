@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 3/11/2021
+; Date: 4/27/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -9,6 +9,7 @@
 *.accuweather.com
 *.adobe.com
 *.advancedrenamer.com
+*.aida64.com
 *.airbnb.com
 *.airtable.com
 *.airtableblocks.com
@@ -20,6 +21,7 @@
 *.armorgames.com
 *.askubuntu.com
 *.aslain.com
+*.asus.com
 *.avantree.com
 *.bbystatic.com
 *.bestbuy.com
@@ -30,6 +32,7 @@
 *.butlerfortrello.com
 *.campaignlive.co.uk
 *.caniuse.com
+*.cbonte.github.io
 *.cdpn.io
 *.centos.org
 *.chartbeat.net
@@ -43,6 +46,7 @@
 *.codepen.io
 *.coderwall.com
 *.commutercreative.com
+*.computerhope.com
 *.computerworld.com
 *.cpuid.com
 *.crates.io
@@ -51,7 +55,6 @@
 *.curiositystream.com
 *.cxense.com
 *.dictionary.com
-*.discord.com
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
@@ -82,15 +85,19 @@
 *.guerrillamail.com
 *.guim.co.uk
 *.handbrake.fr
+*.haproxy.com
 *.healthdata.org
+*.howtogeek.com
 *.hsappstatic.net
 *.hubspot.com
 *.i2ocr.com
 *.ietf.org
+*.imageglass.org
 *.imdb.com
 *.imidc.com
 *.impossiblefoods.com
 *.iqdb.org
+*.itsfoss.com
 *.jhu.edu
 *.jtvnw.net
 *.karellodewijk.github.io
@@ -100,6 +107,7 @@
 *.killerfishgames.com
 *.kstrom.com
 *.learning-rust.github.io
+*.legionriders.club
 *.lichess.org
 *.lichess.ovh
 *.lichess1.org
@@ -108,6 +116,7 @@
 *.linuxize.com
 *.literatumonline.com
 *.logitechg.com
+*.magnetw.app
 *.mailchimp.com
 *.mbebenita.github.io
 *.media-amazon.com
@@ -137,6 +146,8 @@
 *.opensource.com
 *.opensource.org
 *.openwrt.org
+*.patreon.com
+*.pcmag.com
 *.pcpartpicker.com
 *.picpick.*
 *.pix4d.com
@@ -145,8 +156,11 @@
 *.pximg.net
 *.python.org
 *.qbittorrent.org
+*.qr-code-generator.com
 *.quad9.net
 *.rameerez.com
+*.raspberrypi.org
+*.ravenjs.com
 *.redditstatic.com
 *.redhat.com
 *.regex101.com
@@ -161,12 +175,14 @@
 *.searchpreview.de
 *.seasonic.com
 *.serverfault.com
+*.shipmap.org
 *.sitepoint.com
 *.slidesgo.com
 *.spacex.com
 *.ssl-images-amazon.com
 *.ssl.com
 *.sstatic.net
+*.st.com
 *.stackexchange.com
 *.stackoverflow.com
 *.steampowered.com
@@ -203,12 +219,16 @@
 *.twitchcdn.net
 *.typekit.net
 *.typing.works
+*.ubuntubudgie.org
 *.ultrabookreview.com
 *.upload.ac
 *.userbenchmark.com
+*.v-fonts.com
 *.validity.com
 *.vidyard.com
 *.visualstudio.com
+*.vitux.com
+*.vivaldi.com
 *.vogella.com
 *.wacom.com
 *.waifulabs.com

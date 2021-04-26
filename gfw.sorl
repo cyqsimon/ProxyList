@@ -1,10 +1,12 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 3/11/2021
+; Date: 4/27/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
 
+*.9cache.com
+*.9gag.com
 *.9to5google.com
 *.android.com
 *.apkmirror.com
@@ -29,12 +31,15 @@
 *.chinafirewalltest.com
 *.chrome.com
 *.chromium.org
+*.cloudwafer.com
 *.codecademy.com
 *.coderwall.com
 *.comparitech.com
 *.crbug.com
 *.dailymail.co.uk
 *.dev.to
+*.discord.com
+*.discord.gg
 *.discordapp.*
 *.discuss.com.hk
 *.disqus.com
@@ -149,11 +154,13 @@
 *.rocketcdn.me
 *.s-nbcnews.com
 *.savefrom.*
+*.scmp.com
 *.setn.com
 *.shadowsocks.org
 *.sitemeter.com
 *.skype.*
 *.slate.com
+*.slideshare.net
 *.sndcdn.com
 *.soundcloud.com
 *.spreadshirt.com
