@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 4/27/2021
+; Date: 6/10/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -8,6 +8,7 @@
 *.9cache.com
 *.9gag.com
 *.9to5google.com
+*.amzn.to
 *.android.com
 *.apkmirror.com
 *.apkpure.com
@@ -28,6 +29,7 @@
 *.businessinsider.com
 *.cdninstagram.com
 *.change.org
+*.chinadigitaltimes.net
 *.chinafirewalltest.com
 *.chrome.com
 *.chromium.org
@@ -46,6 +48,7 @@
 *.dj1symwmxvldi.cloudfront.net
 *.dmm.*
 *.dmoe.moe
+*.domains.google
 *.dongtaiwang.*
 *.dongxingdi.com
 *.dropbox.com
@@ -58,6 +61,7 @@
 *.epochtimes.*
 *.expressvpn.com
 *.expressvpn.xyz
+*.ext-twitch.tv
 *.facebook.*
 *.factpedia.org
 *.fb.com
@@ -70,6 +74,7 @@
 *.gettyimages.com
 *.ghacks.net
 *.gist.github.com
+*.githack.com
 *.github-atom-io-herokuapp-com.freetls.fastly.net
 *.github.blog
 *.githubusercontent.com
@@ -85,6 +90,7 @@
 *.googlecommerce.com
 *.googlegroups.*
 *.googlesource.com
+*.googlesyndication.com
 *.googletagmanager.com
 *.googleusercontent.*
 *.googlevideo.com
@@ -98,6 +104,7 @@
 *.independent.co.uk
 *.instagram.*
 *.internetdownloadmanager.com
+*.invidious.snopyta.org
 *.jsfiddle.net
 *.kienizer.com
 *.knowyourmeme.com
@@ -119,6 +126,7 @@
 *.neowin.net
 *.nextshark.com
 *.nicovideo.jp
+*.nikkei.com
 *.nordvpn.com
 *.ntdtv.*
 *.nypost.com
@@ -163,6 +171,7 @@
 *.slideshare.net
 *.sndcdn.com
 *.soundcloud.com
+*.soundofhope.org
 *.spreadshirt.com
 *.spys.one
 *.ssr.tools
@@ -170,6 +179,7 @@
 *.statically.io
 *.steamcommunity.com
 *.straitstimes.com
+*.sydneytoday.com
 *.t.co
 *.t.me
 *.techtimes.com
@@ -186,6 +196,7 @@
 *.toutyrater.github.io
 *.transparency.org
 *.ttvnw.net
+*.ttvnw.net
 *.tumblr.com
 *.twimg.*
 *.twitch.tv
@@ -194,8 +205,10 @@
 *.uber.com
 *.urbandictionary.com
 *.us-central1-monkey-type.cloudfunctions.net
+*.v2ex.com
 *.v2ray.com
 *.v8.dev
+*.vanilla-js.com
 *.vimeo.com
 *.voachinese.com
 *.voanews.com

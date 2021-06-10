@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 4/27/2021
+; Date: 6/10/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -55,6 +55,9 @@
 *.curiositystream.com
 *.cxense.com
 *.dictionary.com
+*.diep.io
+*.digitalocean.com
+*.discord.media
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
@@ -103,6 +106,7 @@
 *.karellodewijk.github.io
 *.kernel.org
 *.keybr.com
+*.keychron.com
 *.kickstarter.com
 *.killerfishgames.com
 *.kstrom.com
@@ -116,9 +120,11 @@
 *.linuxize.com
 *.literatumonline.com
 *.logitechg.com
+*.m28n.net
 *.magnetw.app
 *.mailchimp.com
 *.mbebenita.github.io
+*.mechmap.tech
 *.media-amazon.com
 *.minecraft.net
 *.miniclip.com
@@ -138,6 +144,7 @@
 *.nodejs.org
 *.notebookcheck.net
 *.notepad-plus-plus.org
+*.nvidia.com
 *.objgen.com
 *.officedev.github.io
 *.onezoom.org
@@ -151,6 +158,8 @@
 *.pcpartpicker.com
 *.picpick.*
 *.pix4d.com
+*.planet0104.github.io
+*.postimages.org
 *.prismic.io
 *.proships.ru
 *.pximg.net
@@ -176,8 +185,13 @@
 *.seasonic.com
 *.serverfault.com
 *.shipmap.org
+*.shopify.com
+*.shopifycdn.com
+*.shopifysvc.com
 *.sitepoint.com
+*.sli.dev
 *.slidesgo.com
+*.smassets.net
 *.spacex.com
 *.ssl-images-amazon.com
 *.ssl.com
@@ -192,6 +206,7 @@
 *.stripe.network
 *.superuser.com
 *.supervisord.org
+*.surveymonkey.com
 *.tacdn.com
 *.techet.net
 *.techpowerup.com
@@ -206,6 +221,7 @@
 *.theweekinchess.com
 *.tomshardware.com
 *.tonedeaftest.com
+*.toornament.com
 *.trace.moe
 *.travel-assets.com
 *.travian.com
@@ -214,17 +230,21 @@
 *.tripadvisor.*
 *.tripodcloud.com
 *.ttvnw.net
+*.turbotekcomputer.com
 *.turnto.com
+*.tutorialspoint.com
 *.tvnz.co.nz
 *.twitchcdn.net
 *.typekit.net
 *.typing.works
 *.ubuntubudgie.org
 *.ultrabookreview.com
+*.uoregon.edu
 *.upload.ac
 *.userbenchmark.com
 *.v-fonts.com
 *.validity.com
+*.vidkidz.github.io
 *.vidyard.com
 *.visualstudio.com
 *.vitux.com
@@ -246,6 +266,7 @@
 *.wolframcloud.com
 *.worldofwarships.asia
 *.worldometers.info
+*.wottactic.com
 *.wows-numbers.com
 *.wowstactic.tk
 *.xda-developers.com
