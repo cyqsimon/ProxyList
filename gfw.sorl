@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 6/10/2021
+; Date: 8/4/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -70,6 +70,7 @@
 *.findyoutube.*
 *.freetls.fastly.net
 *.fuchsia.dev
+*.genius.com
 *.getoutline.org
 *.gettyimages.com
 *.ghacks.net
@@ -108,10 +109,13 @@
 *.jsfiddle.net
 *.kienizer.com
 *.knowyourmeme.com
+*.lanshack.com
 *.lidarusa.com
+*.linuxtechi.com
 *.lithium.com
 *.live.com
 *.liveleak.com
+*.lonewolfonline.net
 *.ltn.com.tw
 *.maketecheasier.com
 *.mediafire.*
@@ -142,6 +146,7 @@
 *.pinterest.com
 *.pki.goog
 *.privateinternetaccess.com
+*.programmersought.com
 *.proxifier.com
 *.proxyrack.com
 *.ptt.cc
@@ -182,6 +187,7 @@
 *.sydneytoday.com
 *.t.co
 *.t.me
+*.talkchess.com
 *.techtimes.com
 *.telegra.ph
 *.telegram.org
