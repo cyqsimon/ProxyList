@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 8/4/2021
+; Date: 9/26/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -34,7 +34,6 @@
 *.butlerfortrello.com
 *.campaignlive.co.uk
 *.caniuse.com
-*.cbonte.github.io
 *.cdpn.io
 *.centos.org
 *.chartbeat.net
@@ -85,8 +84,6 @@
 *.geoguessr.com
 *.ggpht.com
 *.giphy.com
-*.github.com
-*.githubassets.com
 *.gitlab-static.net
 *.gitlab.com
 *.gnome.org
@@ -112,14 +109,12 @@
 *.itsfoss.com
 *.jhu.edu
 *.jtvnw.net
-*.karellodewijk.github.io
 *.kernel.org
 *.keybr.com
 *.keychron.com
 *.kickstarter.com
 *.killerfishgames.com
 *.kstrom.com
-*.learning-rust.github.io
 *.legionriders.club
 *.lichess.org
 *.lichess.ovh
@@ -132,7 +127,6 @@
 *.m28n.net
 *.magnetw.app
 *.mailchimp.com
-*.mbebenita.github.io
 *.mechmap.tech
 *.media-amazon.com
 *.mikrotik.com
@@ -158,7 +152,6 @@
 *.nvidia.com
 *.objgen.com
 *.obsproject.com
-*.officedev.github.io
 *.onezoom.org
 *.online-tech-tips.com
 *.openhub.net
@@ -170,7 +163,6 @@
 *.pcpartpicker.com
 *.picpick.*
 *.pix4d.com
-*.planet0104.github.io
 *.postimages.org
 *.prismic.io
 *.proships.ru
@@ -192,9 +184,7 @@
 *.rtings.com +direct
 *.ruffle.rs
 *.run.ai
-*.rust-analyzer.github.io
 *.rust-lang.org
-*.rustwasm.github.io
 *.scdn.co
 *.searchpreview.de
 *.seasonic.com
@@ -263,7 +253,6 @@
 *.userbenchmark.com
 *.v-fonts.com
 *.validity.com
-*.vidkidz.github.io
 *.vidyard.com
 *.visualstudio.com
 *.vitux.com
@@ -275,7 +264,6 @@
 *.watchnebula.com
 *.web.app
 *.webassembly.studio
-*.wereturtle.github.io
 *.wgcdn.co
 *.whoscored.com
 *.wikitravel.org
