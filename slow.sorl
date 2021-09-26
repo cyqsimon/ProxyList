@@ -18,6 +18,7 @@
 *.amazonaws.com
 *.amd.com
 *.amp-what.com
+*.appimage.org
 *.appveyor.com
 *.arctic.de
 *.armorgames.com
@@ -35,6 +36,7 @@
 *.campaignlive.co.uk
 *.caniuse.com
 *.cdpn.io
+*.ce-cdn.net
 *.centos.org
 *.chartbeat.net
 *.cheats.rs
@@ -52,6 +54,7 @@
 *.computerworld.com
 *.cpuid.com
 *.crates.io
+*.crowdsec.net
 *.cryorig.com
 *.css-tricks.com
 *.curiositystream.com
@@ -64,6 +67,7 @@
 *.discourse-cdn.com
 *.disqus.com
 *.disquscdn.com
+*.distrowatch.com
 *.electrek.co
 *.electronjs.org
 *.eloguessr.com
@@ -71,7 +75,9 @@
 *.eternalbox.dev
 *.expedia.com
 *.fedoraproject.org
+*.fenixlinux.com
 *.fileinfo.com
+*.flathub.org
 *.flaticon.com
 *.flcl.eu
 *.fontflipper.com
@@ -86,7 +92,9 @@
 *.giphy.com
 *.gitlab-static.net
 *.gitlab.com
+*.gitter.im
 *.gnome.org
+*.godbolt.org
 *.gog.com
 *.gracieuniversity.com
 *.graphicmama.com
@@ -107,6 +115,7 @@
 *.impossiblefoods.com
 *.iqdb.org
 *.itsfoss.com
+*.jacko.io
 *.jhu.edu
 *.jtvnw.net
 *.kernel.org
@@ -127,6 +136,7 @@
 *.m28n.net
 *.magnetw.app
 *.mailchimp.com
+*.manjaro.org
 *.mechmap.tech
 *.media-amazon.com
 *.mikrotik.com
@@ -157,6 +167,7 @@
 *.openhub.net
 *.opensource.com
 *.opensource.org
+*.openweb.com
 *.openwrt.org
 *.patreon.com
 *.pcmag.com
@@ -207,6 +218,7 @@
 *.st.com
 *.stackexchange.com
 *.stackoverflow.com
+*.state.gov
 *.steampowered.com
 *.stockfishchess.org
 *.streamelements.com
@@ -215,6 +227,7 @@
 *.superuser.com
 *.supervisord.org
 *.surveymonkey.com
+*.syncthing.net
 *.tacdn.com
 *.techet.net
 *.techpowerup.com

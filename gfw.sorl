@@ -149,7 +149,9 @@
 *.pinterest.com
 *.pki.goog
 *.privateinternetaccess.com
+*.privoxy.org
 *.programmersought.com
+*.protonvpn.com
 *.proxifier.com
 *.proxyrack.com
 *.ptt.cc
@@ -177,8 +179,10 @@
 *.slate.com
 *.slideshare.net
 *.sndcdn.com
+*.snowfl.com
 *.soundcloud.com
 *.soundofhope.org
+*.spot.im
 *.spreadshirt.com
 *.spys.one
 *.ssr.tools
@@ -194,6 +198,7 @@
 *.telegra.ph
 *.telegram.org
 *.telesco.pe
+*.tenor.com
 *.theguardian.com
 *.thepiratebay.org
 *.tineye.com
@@ -240,5 +245,6 @@
 *.youtube.*
 *.ytimg.com
 *.zaobao.*
+*.zoom.us
 api.dart.dev
 updates.tdesktop.com
