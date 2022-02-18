@@ -192,7 +192,7 @@
 *.returnpath.com
 *.rocketlanguages.com
 *.rockstor.com
-*.rtings.com +direct
+*.rtings.com
 *.ruffle.rs
 *.run.ai
 *.rust-lang.org
