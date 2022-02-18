@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 9/26/2021
+; Date: 2/18/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -10,11 +10,11 @@
 *.9to5google.com
 *.amzn.to
 *.android.com
+api.dart.dev
 *.apkmirror.com
 *.apkpure.com
 *.appspot.com
 *.archive.org
-*.b-ok.cc
 *.bandwagonhost.com
 *.bannedbook.org
 *.bbc.*
@@ -26,6 +26,7 @@
 *.blogger.com
 *.blogspot.*
 *.bloomberg.com
+*.b-ok.cc
 *.businessinsider.com
 *.cdninstagram.com
 *.change.org
@@ -33,6 +34,7 @@
 *.chinafirewalltest.com
 *.chrome.com
 *.chromium.org
+*.cla-assistant.io
 *.cloudwafer.com
 *.codecademy.com
 *.coderwall.com
@@ -40,9 +42,9 @@
 *.crbug.com
 *.dailymail.co.uk
 *.dev.to
+*.discordapp.*
 *.discord.com
 *.discord.gg
-*.discordapp.*
 *.discuss.com.hk
 *.disqus.com
 *.dj1symwmxvldi.cloudfront.net
@@ -64,8 +66,8 @@
 *.ext-twitch.tv
 *.facebook.*
 *.factpedia.org
-*.fb.com
 *.fbcdn.net
+*.fb.com
 *.fbthirdpartypixel.com
 *.findyoutube.*
 *.freetls.fastly.net
@@ -75,18 +77,20 @@
 *.gettyimages.com
 *.ghacks.net
 *.githack.com
+*.githubassets.com
 *.github-atom-io-herokuapp-com.freetls.fastly.net
 *.github.blog
+*.github.co
 *.github.com
 *.github.io
-*.githubassets.com
+*.githubmemory.com
 *.githubusercontent.com
 *.gmail.com
 *.gofundme.com
 *.golang.org
 *.goo.gl
-*.google-analytics.com
 *.google.*
+*.google-analytics.com
 *.googleapis.*
 *.googleblog.com
 *.googlecode.*
@@ -101,6 +105,7 @@
 *.greatfire.org
 *.gstatic.*
 *.hide-ip-proxy.com
+*.hket.com
 *.hsbc.co.uk
 *.html5rocks.com
 *.imgur.com
@@ -124,7 +129,9 @@
 *.medicalnewstoday.com
 *.medium.com
 *.mega.*
+*.me.me
 *.merlinblog.xyz
+*.mojim.com
 *.nationalinterest.org
 *.nbcnews.com
 *.ndtv.com
@@ -139,8 +146,8 @@
 *.nypost.com
 *.nyt.com
 *.nytimes.*
-*.oculus.com
 *.oculuscdn.com
+*.oculus.com
 *.openspf.org
 *.openvpn.net
 *.passwordhashing.com
@@ -155,8 +162,8 @@
 *.proxifier.com
 *.proxyrack.com
 *.ptt.cc
-*.quora.com
 *.quoracdn.net
+*.quora.com
 *.rawgit.com
 *.redbubble.com
 *.redbubble.net
@@ -169,7 +176,6 @@
 *.rferl.org
 *.rfi.fr
 *.rocketcdn.me
-*.s-nbcnews.com
 *.savefrom.*
 *.scmp.com
 *.setn.com
@@ -178,6 +184,7 @@
 *.skype.*
 *.slate.com
 *.slideshare.net
+*.s-nbcnews.com
 *.sndcdn.com
 *.snowfl.com
 *.soundcloud.com
@@ -191,18 +198,22 @@
 *.steamcommunity.com
 *.straitstimes.com
 *.sydneytoday.com
-*.t.co
-*.t.me
+*.tablesgenerator.com
 *.talkchess.com
+*.t.co
 *.techtimes.com
-*.telegra.ph
 *.telegram.org
+*.telegra.ph
 *.telesco.pe
 *.tenor.com
 *.theguardian.com
+*.theintercept.com
 *.thepiratebay.org
 *.tineye.com
 *.tinyurl.com
+*.tlanyan.me
+*.t.me
+*.tong.mu
 *.torproject.org
 *.torrentkitty.*
 *.tothenew.com
@@ -211,13 +222,15 @@
 *.ttvnw.net
 *.tumblr.com
 *.twimg.*
-*.twitch.tv
 *.twitchcon.com
+*.twitch.tv
 *.twitter.*
 *.uber.com
+updates.tdesktop.com
 *.urbandictionary.com
 *.us-central1-monkey-type.cloudfunctions.net
 *.v2ex.com
+*.v2fly.org
 *.v2ray.com
 *.v8.dev
 *.vanilla-js.com
@@ -225,6 +238,7 @@
 *.voachinese.com
 *.voanews.com
 *.voy.com
+*.w3cub.com
 *.w3schools.com
 *.washingtonpost.com
 *.wenxuecity.com
@@ -241,10 +255,8 @@
 *.ycombinator.com
 *.yimg.com
 *.youtu.be
-*.youtube-nocookie.*
 *.youtube.*
+*.youtube-nocookie.*
 *.ytimg.com
 *.zaobao.*
 *.zoom.us
-api.dart.dev
-updates.tdesktop.com
