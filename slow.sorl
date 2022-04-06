@@ -7,6 +7,7 @@
 
 *.a2hosting.co.uk
 *.accuweather.com
+*.actiona.tools
 *.adobe.com
 *.adrianberenguer.com
 *.advancedrenamer.com
@@ -49,6 +50,7 @@
 *.chinafirewalltest.com
 *.chrome-extension-downloader.com
 *.cloudflare.com
+*.cloudfront.net
 *.code-maven.com
 *.codepen.io
 *.coderwall.com
@@ -128,6 +130,7 @@ developer.mozilla.org
 *.impossiblefoods.com
 *.iqdb.org
 *.itsfoss.com
+*.jackli.gg
 *.jacko.io
 *.jhu.edu
 *.jtvnw.net
@@ -178,6 +181,7 @@ developer.mozilla.org
 *.noctua.at
 *.nodejs.org
 *.notebookcheck.net
+*.ntsb.gov
 *.nvidia.com
 *.objgen.com
 *.obsproject.com
@@ -189,6 +193,8 @@ developer.mozilla.org
 *.opensource.org
 *.openweb.com
 *.openwrt.org
+*.osdn.net
+*.pagure.io
 *.patreon.com
 *.pcmag.com
 *.pcpartpicker.com
@@ -209,6 +215,7 @@ developer.mozilla.org
 *.ravenjs.com
 *.redditstatic.com
 *.redhat.com
+*.refactoring.guru
 *.regex101.com
 *.regexr.com
 *.returnpath.com
