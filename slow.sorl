@@ -1,13 +1,10 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2/18/2022
+; Date: 5/2/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
 
-*.a2hosting.co.uk
-*.accuweather.com
-*.actiona.tools
 *.adobe.com
 *.adrianberenguer.com
 *.advancedrenamer.com
@@ -15,21 +12,16 @@
 *.airbnb.com
 *.airtableblocks.com
 *.airtable.com
-*.akamaihd.net
 *.amazon.*
 *.amazonaws.com
 *.amd.com
-*.amp-what.com
 *.appimage.org
 *.appveyor.com
 *.arctic.de
 *.armorgames.com
 *.askubuntu.com
 *.aslain.com
-*.asus.com
 *.avantree.com
-*.azureedge.net
-*.bbystatic.com
 *.bestbuy.com
 *.booking.com
 *.bootstrapcdn.com
@@ -39,11 +31,9 @@
 *.campaignlive.co.uk
 *.caniuse.com
 *.cdpn.io
-*.ce-cdn.net
 *.centos.org
 *.chartbeat.net
 *.cheats.rs
-*.chessbase.com
 *.chessbase.com
 *.chess.com
 *.chesstempo.com
@@ -51,36 +41,25 @@
 *.chrome-extension-downloader.com
 *.cloudflare.com
 *.cloudfront.net
-*.code-maven.com
 *.codepen.io
-*.coderwall.com
-*.commutercreative.com
-*.computerhope.com
 *.computerworld.com
 *.cpuid.com
-*.crates.io
 *.crowdsec.net
 *.cryorig.com
-*.css-tricks.com
 *.curiositystream.com
 *.cxense.com
-developer.mozilla.org
 *.dictionary.com
 *.diep.io
 *.digdig.io
 *.digitalocean.com
 *.discord.media
 *.discourse-cdn.com
-*.disquscdn.com
-*.disqus.com
+*.discourse.org
 *.distrowatch.com
 *.eclerx.com
-*.electrek.co
 *.electronjs.org
-*.eloguessr.com
 *.eol.org
 *.eternalbox.dev
-*.expedia.com
 *.fandom.com
 *.fedoramagazine.org
 *.fedoraproject.org
@@ -89,17 +68,16 @@ developer.mozilla.org
 *.flashgamearchive.com
 *.flathub.org
 *.flaticon.com
-*.flcl.eu
 *.fontflipper.com
 *.fontsquirrel.com
 *.freenas.org
 *.gamemodels3d.com
-*.gameservers.global
+*.gameservers.com
 *.gcdn.co
 *.gdquest.com
 *.geeksforgeeks.org
 *.geoguessr.com
-*.ggpht.com
+*.getfedora.org
 *.giphy.com
 *.gitkraken.com
 *.gitlab.com
