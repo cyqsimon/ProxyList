@@ -111,6 +111,7 @@ api.dart.dev
 *.hket.com
 *.hsbc.co.uk
 *.html5rocks.com
+*.imageglass.org
 *.imgur.com
 *.independent.co.uk
 *.instagram.*
@@ -120,6 +121,7 @@ api.dart.dev
 *.kienizer.com
 *.knowyourmeme.com
 *.lanshack.com
+*.legion.org
 *.lidarusa.com
 *.linuxtechi.com
 *.lithium.com
@@ -225,6 +227,7 @@ api.dart.dev
 *.ttvnw.net
 *.tumblr.com
 *.twimg.*
+*.twitchcdn.net
 *.twitchcon.com
 *.twitch.tv
 *.twitter.*
