@@ -9,12 +9,15 @@ That being said, if you still want to use this list, simply set the raw URL of t
 
 And [**Fuck GFW**](https://github.com/comwrg/FUCK-GFW).
 
-## gfw.sorl
+## [gfw.sorl](/gfw.sorl)
 An abridged list of banned (or not practically usable) sites in China.
 
-Notably, this list **deliberately excludes** sites that are pornographic in nature. You can chain your own list if you want those.
+### Note
+ - This list **deliberately excludes** sites that are primarily pornographic in nature (sites like [Twitter](https://twitter.com) which merely allow such content do not count). You can chain your own list if you want those.
+ - Some domains associated with a banned site may stay accessible (e.g. `twitchcdn.net`) even though the main site is not. For the purposes of this list, those sites are assumed banned as well.
 
-## slow.sorl
-An abridged list of accessible but slow sites in China. Chain `gfw.sorl` as its downstream rule for best experience.
+## [slow.sorl](/slow.sorl)
+An abridged list of accessible but slow sites in China. Chain [gfw.sorl](#gfwsorl) as its downstream rule for best experience.
 
-The metric for what defines "slow" is **completely arbitrary** to my personal liking. Your mileage may vary, depending on your location and network condition.
+### Note
+ - The metric for what defines "slow" is **completely arbitrary** to my personal liking. Your mileage may vary, depending on your location and network condition.
