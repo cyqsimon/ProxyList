@@ -15,6 +15,7 @@ An abridged list of banned (or not practically usable) sites in China.
 ### Note
  - This list **deliberately excludes** sites that are primarily pornographic in nature (sites like [Twitter](https://twitter.com) which merely allow such content do not count). You can chain your own list if you want those.
  - Some domains associated with a banned site may stay accessible (e.g. `twitchcdn.net`) even though the main site is not. For the purposes of this list, those sites are assumed banned as well.
+ - Some sites, although not banned, should really only be visited via a proxy (e.g. `chinafirewalltest.com`) for obvious reasons. For the purposes of this list, those sites are included as well.
 
 ## [slow.sorl](/slow.sorl)
 An abridged list of accessible but slow sites in China. Chain [gfw.sorl](#gfwsorl) as its downstream rule for best experience.
