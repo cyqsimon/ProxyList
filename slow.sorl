@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/2/2022
+; Date: 5/4/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -60,6 +60,7 @@
 *.electronjs.org
 *.eol.org
 *.eternalbox.dev
+*.expedia.com
 *.fandom.com
 *.fedoramagazine.org
 *.fedoraproject.org
@@ -162,13 +163,14 @@
 *.patreon.com
 *.pcmag.com
 *.pcpartpicker.com
-*.picpick.*
+*.picpick.app
+*.picpick.org
 *.pix4d.com
 *.pling.com
 *.postimages.org
+*.postimg.cc
 *.prismic.io
 *.proships.ru
-*.pximg.net
 *.python.org
 *.qbittorrent.org
 *.qr-code-generator.com
@@ -177,7 +179,6 @@
 *.rameerez.com
 *.raspberrypi.org
 *.ravenjs.com
-*.redditstatic.com
 *.redhat.com
 *.refactoring.guru
 *.regex101.com
@@ -185,7 +186,6 @@
 *.returnpath.com
 *.rocketlanguages.com
 *.rockstor.com
-*.rtings.com
 *.ruffle.rs
 *.run.ai
 *.rustjobs.dev
@@ -199,13 +199,10 @@
 *.shopifycdn.com
 *.shopify.com
 *.shopifysvc.com
-*.sitepoint.com
 *.slidesgo.com
 *.sli.dev
 *.smassets.net
-*.smule.com
 *.sourceforge.net
-*.spacex.com
 *.spotify.com
 *.ssl.com
 *.ssl-images-amazon.com
@@ -213,24 +210,16 @@
 *.stackexchange.com
 *.stackoverflow.com
 *.state.gov
-*.st.com
-*.steampowered.com
-*.stockfishchess.org
 *.streamelements.com
 *.streamscheme.com
-*.stripe.network
 *.superuser.com
-*.supervisord.org
 *.surveymonkey.com
 *.syncthing.net
 *.system76.com
 *.tacdn.com
-*.techet.net
 *.techpowerup.com
 *.techtarget.com
-*.telegram.org
 *.telerik.com
-*.thegeekdiary.com
 *.thelancet.com
 *.thermal-grizzly.com
 *.thesaurus.com
@@ -240,22 +229,17 @@
 *.tomshardware.com
 *.tonedeaftest.com
 *.toornament.com
-*.trace.moe
 *.travel-assets.com
 *.travian.com
-*.trellocdn.com
-*.trello.com
-*.tripadvisor.*
+*.tripadvisor.com
+*.tripadvisor.co.uk
 *.tripodcloud.com
 *.truenas.com
-*.ttvnw.net
 *.turbotekcomputer.com
 *.turnto.com
 *.tutorialspoint.com
 *.tvnz.co.nz
-*.twitchcdn.net
 *.typekit.net
-*.typing.works
 *.ubuntubudgie.org
 *.ultrabookreview.com
 *.uoregon.edu

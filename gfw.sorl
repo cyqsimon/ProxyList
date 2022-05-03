@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/2/2022
+; Date: 5/4/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -175,6 +175,7 @@ api.dart.dev
 *.redd.it
 *.reddit.com
 *.redditmedia.com
+*.redditstatic.com
 *.resilio.com
 *.restoreprivacy.com
 *.reuters.com
@@ -189,11 +190,13 @@ api.dart.dev
 *.skype.*
 *.slate.com
 *.slideshare.net
+*.smule.com
 *.s-nbcnews.com
 *.sndcdn.com
 *.snowfl.com
 *.soundcloud.com
 *.soundofhope.org
+*.spacex.com
 *.spot.im
 *.spreadshirt.com
 *.spys.one
@@ -201,11 +204,13 @@ api.dart.dev
 *.stackpath.com
 *.statically.io
 *.steamcommunity.com
+*.steampowered.com
 *.straitstimes.com
 *.sydneytoday.com
 *.tablesgenerator.com
 *.talkchess.com
 *.t.co
+*.techet.net
 *.techtimes.com
 *.telegram.org
 *.telegra.ph
@@ -225,8 +230,10 @@ api.dart.dev
 *.transparency.org
 *.ttvnw.net
 *.ttvnw.net
+*.ttvnw.net
 *.tumblr.com
 *.twimg.*
+*.twitchcdn.net
 *.twitchcdn.net
 *.twitchcon.com
 *.twitch.tv
