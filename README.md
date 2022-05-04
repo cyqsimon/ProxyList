@@ -15,6 +15,8 @@ An abridged list of banned (or not practically usable) sites in China.
 ### Note
  - This list **deliberately excludes** sites that are primarily pornographic in nature (sites like [Twitter](https://twitter.com) which merely allow such content do not count). You can chain your own list if you want those.
  - Some domains that are not technically-banned are also included, if they satisfy any of the following conditions:
+   - Site owner bans all visitors with an IP within mainland China (e.g. `lanshack.com`).
+   - Site almost always times out (e.g. `lidarusa.com`).
    - Site is only intermittently banned (e.g. `github.com`).
    - The domain is closely-associated with a banned site (e.g. `twitchcdn.net`).
    - Site is almost guaranteed going to be banned soon due to its nature (e.g. `itemfix.com`).

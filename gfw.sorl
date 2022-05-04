@@ -6,7 +6,7 @@
 ; Fuck GFW.
 
 ; Redirected Sites
-; These sites force-redirect to a different (often worse) Chinese version of themselves
+; These sites force-redirect to a different (often worse) Chinese version
 
 *.accuweather.com
 *.asus.com
@@ -14,7 +14,7 @@
 *.zaobao.com.sg
 
 ; Blocked Sites
-; These sites are straight up banned
+; These sites are either banned by GFW or georestricted by site owner
 
 *.9cache.com
 *.9gag.com
