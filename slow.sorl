@@ -23,6 +23,9 @@
 *.aslain.com
 *.avantree.com
 *.bestbuy.com
+*.biodigital.com
+*.bit.ly
+*.bitly.com
 *.booking.com
 *.bootstrapcdn.com
 *.bose.com
@@ -40,13 +43,17 @@
 *.chrome-extension-downloader.com
 *.cloudflare.com
 *.cloudfront.net
+*.codecademy.com
 *.codepen.io
+*.coderwall.com
 *.computerworld.com
 *.cpuid.com
 *.crowdsec.net
 *.cryorig.com
 *.curiositystream.com
 *.cxense.com
+*.dart.dev
+*.dev.to
 *.dictionary.com
 *.diep.io
 *.digdig.io
@@ -55,6 +62,7 @@
 *.discourse-cdn.com
 *.discourse.org
 *.distrowatch.com
+*.dmm.com
 *.eclerx.com
 *.electronjs.org
 *.eol.org
@@ -104,6 +112,7 @@
 *.imgix.com
 *.imidc.com
 *.impossiblefoods.com
+*.internetdownloadmanager.com
 *.itsfoss.com
 *.jackli.gg
 *.jacko.io
@@ -113,6 +122,7 @@
 *.kernel.org
 *.keychron.com
 *.khanacademy.org
+*.khoros.com
 *.killerfishgames.com
 *.kstrom.com
 *.lczero.org
@@ -121,6 +131,8 @@
 *.linustechtips.com
 *.linux.com
 *.linuxize.com
+*.linuxtechi.com
+*.lithium.com
 *.logitechg.com
 *.lttstore.com
 *.m28n.net
