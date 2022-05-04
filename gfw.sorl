@@ -5,6 +5,17 @@
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
 
+; Redirected Sites
+; These sites force-redirect to a different (often worse) Chinese version of themselves
+
+*.accuweather.com
+*.asus.com
+*.skype.com
+*.zaobao.com.sg
+
+; Blocked Sites
+; These sites are straight up banned
+
 *.9cache.com
 *.9gag.com
 *.9to5google.com
@@ -31,6 +42,7 @@
 *.chinafirewalltest.com
 *.chrome.com
 *.cla-assistant.io
+*.cloudfunctions.net
 *.cloudwafer.com
 *.comparitech.com
 *.crbug.com
@@ -104,6 +116,7 @@
 *.instagram.com
 *.invidious.snopyta.org
 *.itemfix.com
+*.itlanyan.com
 *.jsfiddle.net
 *.kienizer.com
 *.knowyourmeme.com
@@ -138,10 +151,7 @@
 *.nytimes.com
 *.oculuscdn.com
 *.oculus.com
-*.openspf.org
 *.openvpn.net
-*.passwordhashing.com
-*.pbs.org
 *.pinimg.com
 *.pinterest.com
 *.pki.goog
@@ -156,7 +166,6 @@
 *.quora.com
 *.rawgit.com
 *.redbubble.com
-*.redbubble.net
 *.redd.it
 *.reddit.com
 *.redditmedia.com
@@ -166,13 +175,11 @@
 *.reuters.com
 *.rferl.org
 *.rfi.fr
-*.rocketcdn.me
-*.savefrom.*
+*.savefrom.link
+*.savefrom.net
 *.scmp.com
 *.setn.com
 *.shadowsocks.org
-*.sitemeter.com
-*.skype.*
 *.slate.com
 *.slideshare.net
 *.smule.com
@@ -181,22 +188,17 @@
 *.snowfl.com
 *.soundcloud.com
 *.soundofhope.org
-*.spacex.com
 *.spot.im
-*.spreadshirt.com
 *.spys.one
 *.ssr.tools
 *.stackpath.com
-*.statically.io
 *.steamcommunity.com
 *.steampowered.com
 *.straitstimes.com
 *.sydneytoday.com
 *.tablesgenerator.com
-*.talkchess.com
 *.t.co
-*.techet.net
-*.techtimes.com
+*.tdesktop.com
 *.telegram.org
 *.telegra.ph
 *.telesco.pe
@@ -205,39 +207,29 @@
 *.theintercept.com
 *.thepiratebay.org
 *.tineye.com
-*.tinyurl.com
 *.tlanyan.me
 *.t.me
-*.tong.mu
 *.torproject.org
-*.torrentkitty.*
+*.torrentkitty.tv
 *.tothenew.com
 *.transparency.org
 *.ttvnw.net
-*.ttvnw.net
-*.ttvnw.net
 *.tumblr.com
-*.twimg.*
-*.twitchcdn.net
+*.twimg.com
 *.twitchcdn.net
 *.twitchcon.com
 *.twitch.tv
-*.twitter.*
+*.twitter.com
 *.uber.com
-updates.tdesktop.com
 *.urbandictionary.com
-*.us-central1-monkey-type.cloudfunctions.net
 *.v2ex.com
 *.v2fly.org
 *.v2ray.com
-*.v8.dev
 *.vanilla-js.com
 *.vimeo.com
 *.voachinese.com
 *.voanews.com
 *.voy.com
-*.w3cub.com
-*.w3schools.com
 *.washingtonpost.com
 *.wenxuecity.com
 *.wikibooks.org
@@ -248,13 +240,10 @@ updates.tdesktop.com
 *.wikivoyage.org
 *.wiktionary.org
 *.withgoogle.com
-*.wordpress.*
-*.wp.com
+*.yahoo.com
 *.ycombinator.com
 *.yimg.com
 *.youtu.be
-*.youtube.*
-*.youtube-nocookie.*
+*.youtube.com
+*.youtube-nocookie.com
 *.ytimg.com
-*.zaobao.*
-*.zoom.us

@@ -172,6 +172,7 @@
 *.osdn.net
 *.pagure.io
 *.patreon.com
+*.pbs.org
 *.pcmag.com
 *.pcpartpicker.com
 *.picpick.app
@@ -195,6 +196,7 @@
 *.regex101.com
 *.regexr.com
 *.returnpath.com
+*.rocketcdn.me
 *.rocketlanguages.com
 *.rockstor.com
 *.ruffle.rs
@@ -214,6 +216,7 @@
 *.sli.dev
 *.smassets.net
 *.sourceforge.net
+*.spacex.com
 *.spotify.com
 *.ssl.com
 *.ssl-images-amazon.com
@@ -221,6 +224,7 @@
 *.stackexchange.com
 *.stackoverflow.com
 *.state.gov
+*.statically.io
 *.streamelements.com
 *.streamscheme.com
 *.superuser.com
@@ -228,14 +232,18 @@
 *.syncthing.net
 *.system76.com
 *.tacdn.com
+*.talkchess.com
+*.techet.net
 *.techpowerup.com
 *.techtarget.com
+*.techtimes.com
 *.telerik.com
 *.thelancet.com
 *.thermal-grizzly.com
 *.thesaurus.com
 *.thetypingcat.com
 *.theweekinchess.com
+*.tinyurl.com
 *.tokio.rs
 *.tomshardware.com
 *.tonedeaftest.com
@@ -255,12 +263,15 @@
 *.ultrabookreview.com
 *.uoregon.edu
 *.upload.ac
+*.v8.dev
 *.validity.com
 *.v-fonts.com
 *.vidyard.com
 *.visualstudio.com
 *.vivaldi.com
 *.vogella.com
+*.w3cub.com
+*.w3schools.com
 *.wacom.com
 *.wargaming.net
 *.watchnebula.com
@@ -279,4 +290,5 @@
 *.xda-developers.com
 *.xfce.org
 *.xkcd.com
+*.zoom.us
 *.zype.com
