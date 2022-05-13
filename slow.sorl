@@ -1,17 +1,21 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/4/2022
+; Date: 5/14/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
 
 *.adobe.com
+*.adobedtm.com
 *.adrianberenguer.com
 *.advancedrenamer.com
 *.aida64.com
 *.airbnb.com
+*.airbnb.org
 *.airtableblocks.com
 *.airtable.com
+*.akamaized.net
+*.alexhost.com
 *.amazon.*
 *.amazonaws.com
 *.amd.com
@@ -21,6 +25,7 @@
 *.armorgames.com
 *.askubuntu.com
 *.aslain.com
+*.atypon.com
 *.avantree.com
 *.bestbuy.com
 *.biodigital.com
@@ -29,6 +34,7 @@
 *.booking.com
 *.bootstrapcdn.com
 *.bose.com
+*.brightcove.com
 *.bstatic.com
 *.butlerfortrello.com
 *.campaignlive.co.uk
@@ -47,9 +53,12 @@
 *.codepen.io
 *.coderwall.com
 *.computerworld.com
+*.consensu.org
+*.cookielaw.org
 *.cpuid.com
 *.crowdsec.net
 *.cryorig.com
+*.ctfassets.net
 *.curiositystream.com
 *.cxense.com
 *.dart.dev
@@ -58,27 +67,36 @@
 *.diep.io
 *.digdig.io
 *.digitalocean.com
+*.digitaloceanspaces.com
 *.discord.media
 *.discourse-cdn.com
 *.discourse.org
 *.distrowatch.com
 *.dmm.com
 *.eclerx.com
+*.ecma-international.org
+*.eep.io
 *.electronjs.org
+*.endeavouros.com
+*.entermediadb.net
 *.eol.org
 *.eternalbox.dev
 *.expedia.com
+*.ezoiccdn.com
 *.fandom.com
 *.fedoramagazine.org
 *.fedoraproject.org
 *.fenixlinux.com
 *.fileinfo.com
+*.filestackapi.com
+*.filestack.com
 *.flashgamearchive.com
 *.flathub.org
 *.flaticon.com
 *.fontflipper.com
 *.fontsquirrel.com
 *.freenas.org
+*.futurecdn.net
 *.gamemodels3d.com
 *.gameservers.com
 *.gcdn.co
@@ -117,15 +135,20 @@
 *.jackli.gg
 *.jacko.io
 *.jhu.edu
+*.jquery.com
 *.jtvnw.net
+*.judge.me
+*.kate-editor.org
 *.kde.org
 *.kernel.org
 *.keychron.com
 *.khanacademy.org
 *.khoros.com
 *.killerfishgames.com
+*.knightlab.com
 *.kstrom.com
 *.lczero.org
+*.libreoffice.org
 *.lichess1.org
 *.lichess.org
 *.linustechtips.com
@@ -145,6 +168,7 @@
 *.miniclip.com
 *.monkeytype.com
 *.mozilla.org
+*.mt.lv
 *.muscache.com
 *.namecheap.com
 *.nano-editor.org
@@ -153,6 +177,7 @@
 *.netlimiter.com
 *.networkworld.com
 *.newegg.com
+*.neweggimages.com
 *.newmediacampaigns.com
 *.nitrome.com
 *.noctua.at
@@ -199,10 +224,12 @@
 *.rocketcdn.me
 *.rocketlanguages.com
 *.rockstor.com
+*.rpmfusion.org
 *.ruffle.rs
 *.run.ai
 *.rustjobs.dev
 *.rust-lang.org
+*.salesforce.com
 *.scdn.co
 *.searchpreview.de
 *.seasonic.com
@@ -257,16 +284,19 @@
 *.turbotekcomputer.com
 *.turnto.com
 *.tutorialspoint.com
+*.tuxedocomputers.com
 *.tvnz.co.nz
 *.typekit.net
 *.ubuntubudgie.org
 *.ultrabookreview.com
+*.un.org
 *.uoregon.edu
 *.upload.ac
 *.v8.dev
 *.validity.com
 *.v-fonts.com
 *.vidyard.com
+*.vimeocdn.com
 *.visualstudio.com
 *.vivaldi.com
 *.vogella.com
@@ -290,5 +320,8 @@
 *.xda-developers.com
 *.xfce.org
 *.xkcd.com
+*.ymca.int
+*.yottaa.com
+*.yottaa.net
 *.zoom.us
 *.zype.com

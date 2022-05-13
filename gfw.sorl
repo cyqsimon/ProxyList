@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/4/2022
+; Date: 5/14/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -44,6 +44,9 @@
 *.cla-assistant.io
 *.cloudfunctions.net
 *.cloudwafer.com
+*.cna.com.tw
+*.cnn.com
+*.cnn.io
 *.comparitech.com
 *.crbug.com
 *.dailymail.co.uk
@@ -73,7 +76,11 @@
 *.fb.com
 *.fbthirdpartypixel.com
 *.findyoutube.com
+*.flickr.com
 *.freetls.fastly.net
+*.freewechat.com
+*.freeweibo.com
+*.ft.com
 *.fuchsia.dev
 *.genius.com
 *.getoutline.org
@@ -140,6 +147,7 @@
 *.ndtv.com
 *.neow.in
 *.neowin.net
+*.newhighlandvision.com
 *.nextshark.com
 *.nicovideo.jp
 *.nikkei.com
@@ -151,9 +159,12 @@
 *.nytimes.com
 *.oculuscdn.com
 *.oculus.com
+*.odysee.com
 *.openvpn.net
+*.pincong.rocks
 *.pinimg.com
 *.pinterest.com
+*.pixiv.net
 *.pki.goog
 *.privateinternetaccess.com
 *.privoxy.org
@@ -162,6 +173,7 @@
 *.proxifier.com
 *.proxyrack.com
 *.ptt.cc
+*.pximg.net
 *.quoracdn.net
 *.quora.com
 *.rawgit.com
@@ -194,6 +206,7 @@
 *.stackpath.com
 *.steamcommunity.com
 *.steampowered.com
+*.storm.mg
 *.straitstimes.com
 *.sydneytoday.com
 *.tablesgenerator.com
