@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/14/2022
+; Date: 9/11/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -14,6 +14,7 @@
 *.airbnb.org
 *.airtableblocks.com
 *.airtable.com
+*.akamaihd.net
 *.akamaized.net
 *.alexhost.com
 *.amazon.*
@@ -84,6 +85,7 @@
 *.expedia.com
 *.ezoiccdn.com
 *.fandom.com
+*.fedorainfracloud.org
 *.fedoramagazine.org
 *.fedoraproject.org
 *.fenixlinux.com
@@ -95,6 +97,8 @@
 *.flaticon.com
 *.fontflipper.com
 *.fontsquirrel.com
+*.fosscord.com
+*.freedesktop.org
 *.freenas.org
 *.futurecdn.net
 *.gamemodels3d.com
@@ -104,6 +108,7 @@
 *.geeksforgeeks.org
 *.geoguessr.com
 *.getfedora.org
+*.getgrav.org
 *.giphy.com
 *.gitkraken.com
 *.gitlab.com
@@ -135,6 +140,7 @@
 *.jackli.gg
 *.jacko.io
 *.jhu.edu
+*.jigsawplanet.com
 *.jquery.com
 *.jtvnw.net
 *.judge.me
@@ -148,6 +154,7 @@
 *.knightlab.com
 *.kstrom.com
 *.lczero.org
+*.leapchat.org
 *.libreoffice.org
 *.lichess1.org
 *.lichess.org
@@ -162,6 +169,7 @@
 *.mailchimp.com
 *.manjaro.org
 *.media-amazon.com
+*.midjourney.com
 *.mikrotik.com
 *.minecraft.net
 *.miniclipcdn.com
@@ -175,19 +183,23 @@
 *.nebula.app
 *.netgear.com
 *.netlimiter.com
+*.networkmanager.dev
 *.networkworld.com
 *.newegg.com
 *.neweggimages.com
 *.newmediacampaigns.com
 *.nitrome.com
+*.nocookie.net
 *.noctua.at
 *.notebookcheck.net
+*.ntfy.sh
 *.ntsb.gov
 *.nvidia.com
 *.objgen.com
 *.obsproject.com
 *.onezoom.org
 *.online-tech-tips.com
+*.openai.com
 *.opendesktop.org
 *.openhub.net
 *.opensource.com
@@ -216,6 +228,7 @@
 *.rameerez.com
 *.raspberrypi.org
 *.ravenjs.com
+*.raymond.cc
 *.redhat.com
 *.refactoring.guru
 *.regex101.com
@@ -230,6 +243,7 @@
 *.rustjobs.dev
 *.rust-lang.org
 *.salesforce.com
+*.sassmeister.com
 *.scdn.co
 *.searchpreview.de
 *.seasonic.com
@@ -305,6 +319,7 @@
 *.wacom.com
 *.wargaming.net
 *.watchnebula.com
+*.westerndigital.com
 *.wgcdn.co
 *.whoscored.com
 *.wikitravel.org
@@ -313,10 +328,12 @@
 *.wolframcdn.com
 *.wolframcloud.com
 *.wolfram.com
+*.wordpress.com
 *.worldofwarships.asia
 *.worldometers.info
 *.wottactic.com
 *.wows-numbers.com
+*.wp.com
 *.xda-developers.com
 *.xfce.org
 *.xkcd.com

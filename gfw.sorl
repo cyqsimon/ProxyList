@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 5/14/2022
+; Date: 9/11/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -19,6 +19,7 @@
 *.9cache.com
 *.9gag.com
 *.9to5google.com
+*.amnesty.org
 *.amp-what.com
 *.android.com
 *.apkmirror.com
@@ -35,6 +36,7 @@
 *.blogspot.*
 *.bloomberg.com
 *.b-ok.cc
+*.brave.com
 *.businessinsider.com
 *.cdninstagram.com
 *.change.org
@@ -48,6 +50,7 @@
 *.cnn.com
 *.cnn.io
 *.comparitech.com
+*.craiyon.com
 *.crbug.com
 *.dailymail.co.uk
 *.discordapp.com
@@ -67,6 +70,7 @@
 *.edgecast.com
 *.electrek.co
 *.epochtimes.com
+*.euronews.com
 *.expressvpn.com
 *.expressvpn.xyz
 *.ext-twitch.tv
@@ -75,6 +79,7 @@
 *.fbcdn.net
 *.fb.com
 *.fbthirdpartypixel.com
+*.fb.watch
 *.findyoutube.com
 *.flickr.com
 *.freetls.fastly.net
@@ -95,6 +100,7 @@
 *.githubmemory.com
 *.githubusercontent.com
 *.gmail.com
+*.go.dev
 *.gofundme.com
 *.golang.org
 *.goo.gl
@@ -125,15 +131,21 @@
 *.itemfix.com
 *.itlanyan.com
 *.jsfiddle.net
+*.jw-cdn.org
+*.jw.org
+*.kgs.link
 *.kienizer.com
 *.knowyourmeme.com
 *.lanshack.com
 *.legion.org
+*.libredd.it
 *.lidarusa.com
 *.liveleak.com
 *.lonewolfonline.net
 *.ltn.com.tw
+*.lyricstranslate.com
 *.maketecheasier.com
+*.matrix.org
 *.mediafire.com
 *.medicalnewstoday.com
 *.medium.com
@@ -169,6 +181,7 @@
 *.privateinternetaccess.com
 *.privoxy.org
 *.programmersought.com
+*.proton.me
 *.protonvpn.com
 *.proxifier.com
 *.proxyrack.com
@@ -192,6 +205,7 @@
 *.scmp.com
 *.setn.com
 *.shadowsocks.org
+*.shopee.tw
 *.slate.com
 *.slideshare.net
 *.smule.com
@@ -217,6 +231,7 @@
 *.telesco.pe
 *.tenor.com
 *.theguardian.com
+*.thehindu.com
 *.theintercept.com
 *.thepiratebay.org
 *.tineye.com
@@ -232,6 +247,7 @@
 *.twitchcdn.net
 *.twitchcon.com
 *.twitch.tv
+*.twitlonger.com
 *.twitter.com
 *.uber.com
 *.urbandictionary.com
@@ -244,6 +260,8 @@
 *.voanews.com
 *.voy.com
 *.washingtonpost.com
+*.webpkgcache.com
+*.webrtc.org
 *.wenxuecity.com
 *.wikibooks.org
 *.wikidata.org
