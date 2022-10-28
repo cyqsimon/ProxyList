@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 9/11/2022
+; Date: 10/28/2022
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -10,6 +10,7 @@
 
 *.accuweather.com
 *.asus.com
+*.msn.com
 *.skype.com
 *.zaobao.com.sg
 
