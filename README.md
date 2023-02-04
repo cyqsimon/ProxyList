@@ -7,8 +7,6 @@ Note that the purpose of this list is, has always been, and will always be ***pe
 
 That being said, if you still want to use this list, simply set the raw URL of the list as your `Rule List URL` in your Switch Profile.
 
-And [**Fuck GFW**](https://github.com/comwrg/FUCK-GFW).
-
 ## [gfw.sorl](/gfw.sorl)
 An abridged list of banned (or not practically usable) sites in China.
 
