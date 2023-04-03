@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 9/11/2022
+; Date: 04/03/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -20,14 +20,17 @@
 *.amazon.*
 *.amazonaws.com
 *.amd.com
+*.appcenter.ms
 *.appimage.org
 *.appveyor.com
+*.archlabslinux.com
 *.arctic.de
 *.armorgames.com
 *.askubuntu.com
 *.aslain.com
 *.atypon.com
 *.avantree.com
+*.azureedge.net
 *.bestbuy.com
 *.biodigital.com
 *.bit.ly
@@ -40,6 +43,8 @@
 *.butlerfortrello.com
 *.campaignlive.co.uk
 *.caniuse.com
+*.caniuse.rs
+*.catbox.moe
 *.cdpn.io
 *.centos.org
 *.chartbeat.net
@@ -101,6 +106,7 @@
 *.freedesktop.org
 *.freenas.org
 *.futurecdn.net
+*.fwupd.org
 *.gamemodels3d.com
 *.gameservers.com
 *.gcdn.co
@@ -144,6 +150,7 @@
 *.jquery.com
 *.jtvnw.net
 *.judge.me
+*.jwplayer.com
 *.kate-editor.org
 *.kde.org
 *.kernel.org
@@ -153,11 +160,13 @@
 *.killerfishgames.com
 *.knightlab.com
 *.kstrom.com
+*.kubernetes.io
 *.lczero.org
 *.leapchat.org
 *.libreoffice.org
 *.lichess1.org
 *.lichess.org
+*.lichess.ovh
 *.linustechtips.com
 *.linux.com
 *.linuxize.com
@@ -272,6 +281,7 @@
 *.surveymonkey.com
 *.syncthing.net
 *.system76.com
+*.systemverilog.io
 *.tacdn.com
 *.talkchess.com
 *.techet.net

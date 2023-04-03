@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 10/28/2022
+; Date: 04/03/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -53,6 +53,7 @@
 *.comparitech.com
 *.craiyon.com
 *.crbug.com
+*.cubbit.io
 *.dailymail.co.uk
 *.discordapp.com
 *.discord.com
@@ -71,6 +72,7 @@
 *.edgecast.com
 *.electrek.co
 *.epochtimes.com
+*.etsy.com
 *.euronews.com
 *.expressvpn.com
 *.expressvpn.xyz
@@ -201,6 +203,7 @@
 *.reuters.com
 *.rferl.org
 *.rfi.fr
+*.riseup.net
 *.savefrom.link
 *.savefrom.net
 *.scmp.com
@@ -227,6 +230,7 @@
 *.tablesgenerator.com
 *.t.co
 *.tdesktop.com
+*.techradar.com
 *.telegram.org
 *.telegra.ph
 *.telesco.pe
@@ -235,6 +239,7 @@
 *.thehindu.com
 *.theintercept.com
 *.thepiratebay.org
+*.theverge.com
 *.tineye.com
 *.tlanyan.me
 *.t.me
@@ -256,9 +261,12 @@
 *.v2fly.org
 *.v2ray.com
 *.vanilla-js.com
+*.vercel.app
 *.vimeo.com
 *.voachinese.com
 *.voanews.com
+*.vox-cdn.com
+*.vox.com
 *.voy.com
 *.washingtonpost.com
 *.webpkgcache.com
@@ -275,7 +283,9 @@
 *.yahoo.com
 *.ycombinator.com
 *.yimg.com
+*.you.com
 *.youtu.be
 *.youtube.com
 *.youtube-nocookie.com
 *.ytimg.com
+*.zenodo.org
