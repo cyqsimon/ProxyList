@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/03/2023
+; Date: 07/19/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -32,6 +32,7 @@
 *.bbc.com
 *.bbc.co.uk
 *.bbci.co.uk
+*.bellingcat.com
 *.blogblog.com
 *.blogger.com
 *.blogspot.*
@@ -47,6 +48,7 @@
 *.cla-assistant.io
 *.cloudfunctions.net
 *.cloudwafer.com
+*.cms-twdigitalassets.com
 *.cna.com.tw
 *.cnn.com
 *.cnn.io
@@ -56,12 +58,14 @@
 *.cubbit.io
 *.dailymail.co.uk
 *.discordapp.com
+*.discordapp.net
 *.discord.com
 *.discord.gg
 *.discuss.com
 *.discuss.com.hk
 *.disquscdn.com
 *.disqus.com
+*.docker.com
 *.dongtaiwang.com
 *.dropbox.com
 *.dropboxstatic.com
@@ -85,11 +89,13 @@
 *.fb.watch
 *.findyoutube.com
 *.flickr.com
+*.fosstodon.org
 *.freetls.fastly.net
 *.freewechat.com
 *.freeweibo.com
 *.ft.com
 *.fuchsia.dev
+*.garudalinux.org
 *.genius.com
 *.getoutline.org
 *.gettyimages.com
@@ -119,11 +125,14 @@
 *.googletagmanager.com
 *.googleusercontent.*
 *.googlevideo.com
+*.gov.tw
 *.gravatar.com
 *.greatfire.org
 *.gstatic.*
+*.hackmd.io
 *.hide-ip-proxy.com
 *.hket.com
+*.hrw.org
 *.hsbc.co.uk
 *.html5rocks.com
 *.imageglass.org
@@ -175,6 +184,7 @@
 *.oculuscdn.com
 *.oculus.com
 *.odysee.com
+*.openstreetmap.org
 *.openvpn.net
 *.pincong.rocks
 *.pinimg.com

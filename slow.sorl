@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 04/03/2023
+; Date: 07/19/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -31,6 +31,7 @@
 *.atypon.com
 *.avantree.com
 *.azureedge.net
+*.bequiet.com
 *.bestbuy.com
 *.biodigital.com
 *.bit.ly
@@ -79,6 +80,7 @@
 *.discourse.org
 *.distrowatch.com
 *.dmm.com
+*.docs.rs
 *.eclerx.com
 *.ecma-international.org
 *.eep.io
@@ -94,6 +96,7 @@
 *.fedoramagazine.org
 *.fedoraproject.org
 *.fenixlinux.com
+*.ferrous-systems.com
 *.fileinfo.com
 *.filestackapi.com
 *.filestack.com
@@ -117,6 +120,7 @@
 *.getgrav.org
 *.giphy.com
 *.gitkraken.com
+gitlab.archlinux.org
 *.gitlab.com
 *.gitlab-static.net
 *.gitter.im
@@ -142,6 +146,7 @@
 *.imidc.com
 *.impossiblefoods.com
 *.internetdownloadmanager.com
+*.itch.io
 *.itsfoss.com
 *.jackli.gg
 *.jacko.io
@@ -178,6 +183,8 @@
 *.mailchimp.com
 *.manjaro.org
 *.media-amazon.com
+*.memtest86.com
+*.microcenter.com
 *.midjourney.com
 *.mikrotik.com
 *.minecraft.net
@@ -227,6 +234,7 @@
 *.pling.com
 *.postimages.org
 *.postimg.cc
+*.postlmg.cc
 *.prismic.io
 *.proships.ru
 *.python.org
@@ -252,6 +260,7 @@
 *.rustjobs.dev
 *.rust-lang.org
 *.salesforce.com
+*.sass-lang.com
 *.sassmeister.com
 *.scdn.co
 *.searchpreview.de
@@ -312,6 +321,7 @@
 *.tvnz.co.nz
 *.typekit.net
 *.ubuntubudgie.org
+*.ui.com
 *.ultrabookreview.com
 *.un.org
 *.uoregon.edu
@@ -327,8 +337,10 @@
 *.w3cub.com
 *.w3schools.com
 *.wacom.com
+*.wallhaven.cc
 *.wargaming.net
 *.watchnebula.com
+*.webflow.com
 *.westerndigital.com
 *.wgcdn.co
 *.whoscored.com
