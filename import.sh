@@ -7,33 +7,52 @@ set -e
 # inputs
 ##############################
 
+ALLOW_DIRTY="false"
 GIT_ROOT="$(git rev-parse --show-toplevel)"
 
-# handle positional argument
-case "$1" in
-    blocked)
-        SOURCE_PATH="$GIT_ROOT/gfw.sorl"
-        BEGIN_TAG="BEGIN-BLOCKED-SECTION"
-        END_TAG="END-BLOCKED-SECTION"
-        ;;
-    redirect)
-        SOURCE_PATH="$GIT_ROOT/gfw.sorl"
-        BEGIN_TAG="BEGIN-REDIRECT-SECTION"
-        END_TAG="END-REDIRECT-SECTION"
-        ;;
-    slow)
-        SOURCE_PATH="$GIT_ROOT/slow.sorl"
-        BEGIN_TAG="BEGIN-SLOW-SECTION"
-        END_TAG="END-SLOW-SECTION"
-        ;;
-    *)
-        echo "Unknown category: \"$1\""
-        exit 1
-        ;;
-esac
+# handle arguments
+# flags must come before positional argument
+for ARG in "$@"; do
+    case "$ARG" in
+        # flags
+        --allow-dirty)
+            ALLOW_DIRTY="true"
+            ;;
+        # unknown flag
+        --*)
+            echo "Unknown flag: \"$ARG\""
+            exit 1
+            ;;
+
+        # positional
+        blocked)
+            SOURCE_PATH="$GIT_ROOT/gfw.sorl"
+            BEGIN_TAG="BEGIN-BLOCKED-SECTION"
+            END_TAG="END-BLOCKED-SECTION"
+            break
+            ;;
+        redirect)
+            SOURCE_PATH="$GIT_ROOT/gfw.sorl"
+            BEGIN_TAG="BEGIN-REDIRECT-SECTION"
+            END_TAG="END-REDIRECT-SECTION"
+            break
+            ;;
+        slow)
+            SOURCE_PATH="$GIT_ROOT/slow.sorl"
+            BEGIN_TAG="BEGIN-SLOW-SECTION"
+            END_TAG="END-SLOW-SECTION"
+            break
+            ;;
+        # unknown positional
+        *)
+            echo "Unknown category: \"$ARG\""
+            exit 1
+            ;;
+    esac
+done
 
 # exit if source is dirty
-if git ls-files --modified --error-unmatch "$SOURCE_PATH" >/dev/null 2>&1; then
+if [[ "$ALLOW_DIRTY" == "false" ]] && git ls-files --modified --error-unmatch "$SOURCE_PATH" >/dev/null 2>&1; then
     echo "$SOURCE_PATH is dirty; refusing to edit."
     exit 2
 fi
