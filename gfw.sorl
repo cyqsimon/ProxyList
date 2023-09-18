@@ -7,7 +7,7 @@
 
 ; Redirected Sites
 ; These sites force-redirect to a different (often worse) Chinese version
-
+; BEGIN-REDIRECT-SECTION
 *.accuweather.com
 *.asus.com
 *.licdn.com
@@ -15,10 +15,11 @@
 *.msn.com
 *.skype.com
 *.zaobao.com.sg
+; END-REDIRECT-SECTION
 
 ; Blocked Sites
 ; These sites are either banned by GFW or georestricted by site owner
-
+; BEGIN-BLOCKED-SECTION
 *.9cache.com
 *.9gag.com
 *.9to5google.com
@@ -300,3 +301,4 @@
 *.youtube-nocookie.com
 *.ytimg.com
 *.zenodo.org
+; END-BLOCKED-SECTION

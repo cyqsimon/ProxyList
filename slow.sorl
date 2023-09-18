@@ -5,6 +5,7 @@
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
 
+; BEGIN-SLOW-SECTION
 *.adobe.com
 *.adobedtm.com
 *.adrianberenguer.com
@@ -364,3 +365,4 @@ gitlab.archlinux.org
 *.yottaa.net
 *.zoom.us
 *.zype.com
+; END-SLOW-SECTION
