@@ -47,6 +47,10 @@ TARGET_BUFFER="$(mktemp -t 'ProxyList-target.XXXXX')"
 # before begin tag
 sed "/$BEGIN_TAG/q" "$SOURCE_PATH" >> "$TARGET_BUFFER"
 
+# update date
+DATE="$(date +%m/%d/%Y)"
+sed -Ei "\\|; Date: [[:digit:]]+(/[[:digit:]]+){2}| s|[[:digit:]]+(/[[:digit:]]+){2}|$DATE|" "$TARGET_BUFFER"
+
 # preprocess, append, and sort
 PREPROCESS_BUFFER="$(mktemp -t 'ProxyList-preprocess.XXXXX')"
 cut -d ' ' -f 1 - > "$PREPROCESS_BUFFER"
