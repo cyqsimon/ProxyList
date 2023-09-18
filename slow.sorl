@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 07/19/2023
+; Date: 09/18/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -34,6 +34,7 @@
 *.azureedge.net
 *.bequiet.com
 *.bestbuy.com
+*.bevyengine.org
 *.biodigital.com
 *.bit.ly
 *.bitly.com
@@ -63,6 +64,7 @@
 *.computerworld.com
 *.consensu.org
 *.cookielaw.org
+*.coral.ai
 *.cpuid.com
 *.crowdsec.net
 *.cryorig.com
@@ -79,6 +81,7 @@
 *.discord.media
 *.discourse-cdn.com
 *.discourse.org
+*.diskanalyzer.com
 *.distrowatch.com
 *.dmm.com
 *.docs.rs
@@ -104,6 +107,7 @@
 *.flashgamearchive.com
 *.flathub.org
 *.flaticon.com
+*.fontawesome.com
 *.fontflipper.com
 *.fontsquirrel.com
 *.fosscord.com
@@ -114,6 +118,7 @@
 *.gamemodels3d.com
 *.gameservers.com
 *.gcdn.co
+*.gdbgui.com
 *.gdquest.com
 *.geeksforgeeks.org
 *.geoguessr.com
@@ -124,6 +129,7 @@
 gitlab.archlinux.org
 *.gitlab.com
 *.gitlab-static.net
+*.git-lfs.com
 *.gitter.im
 *.gnome.org
 *.godbolt.org
@@ -167,8 +173,10 @@ gitlab.archlinux.org
 *.knightlab.com
 *.kstrom.com
 *.kubernetes.io
+*.kxcdn.com
 *.lczero.org
 *.leapchat.org
+*.learnopengl.com
 *.libreoffice.org
 *.lichess1.org
 *.lichess.org
@@ -209,6 +217,7 @@ gitlab.archlinux.org
 *.nocookie.net
 *.noctua.at
 *.notebookcheck.net
+*.npmjs.com
 *.ntfy.sh
 *.ntsb.gov
 *.nvidia.com
@@ -224,6 +233,7 @@ gitlab.archlinux.org
 *.openweb.com
 *.openwrt.org
 *.osdn.net
+*.oup.com
 *.pagure.io
 *.patreon.com
 *.pbs.org
@@ -247,6 +257,8 @@ gitlab.archlinux.org
 *.raspberrypi.org
 *.ravenjs.com
 *.raymond.cc
+*.readthedocs.io
+*.readthedocs.org
 *.redhat.com
 *.refactoring.guru
 *.regex101.com
@@ -268,6 +280,7 @@ gitlab.archlinux.org
 *.seasonic.com
 *.serverfault.com
 *.shazam.com
+*.shinobi.video
 *.shipmap.org
 *.shopifycdn.com
 *.shopify.com
@@ -283,6 +296,7 @@ gitlab.archlinux.org
 *.sstatic.net
 *.stackexchange.com
 *.stackoverflow.com
+*.starship.rs
 *.state.gov
 *.statically.io
 *.streamelements.com
@@ -294,11 +308,13 @@ gitlab.archlinux.org
 *.systemverilog.io
 *.tacdn.com
 *.talkchess.com
+*.tamasfe.dev
 *.techet.net
 *.techpowerup.com
 *.techtarget.com
 *.techtimes.com
 *.telerik.com
+*.thegeekdiary.com
 *.thelancet.com
 *.thermal-grizzly.com
 *.thesaurus.com
@@ -309,6 +325,7 @@ gitlab.archlinux.org
 *.tomshardware.com
 *.tonedeaftest.com
 *.toornament.com
+*.traefik.io
 *.travel-assets.com
 *.travian.com
 *.tripadvisor.com
@@ -334,6 +351,7 @@ gitlab.archlinux.org
 *.vimeocdn.com
 *.visualstudio.com
 *.vivaldi.com
+*.vkguide.dev
 *.vogella.com
 *.w3cub.com
 *.w3schools.com

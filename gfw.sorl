@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 07/19/2023
+; Date: 09/18/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -43,10 +43,12 @@
 *.brave.com
 *.businessinsider.com
 *.cdninstagram.com
+*.cdrtd.com
 *.change.org
 *.chinadigitaltimes.net
 *.chinafirewalltest.com
 *.chrome.com
+*.chromestatus.com
 *.cla-assistant.io
 *.cloudfunctions.net
 *.cloudwafer.com
@@ -72,6 +74,7 @@
 *.dropbox.com
 *.dropboxstatic.com
 *.duckduckgo.com
+*.duyaoss.com
 *.dw.com
 *.economist.com
 *.edgecastcdn.net
@@ -115,6 +118,7 @@
 *.gofundme.com
 *.golang.org
 *.goo.gl
+*.google
 *.google.*
 *.google-analytics.com
 *.googleapis.*
@@ -140,6 +144,7 @@
 *.imageglass.org
 *.imgur.com
 *.independent.co.uk
+*.indiatoday.in
 *.instagram.com
 *.invidious.snopyta.org
 *.itemfix.com
@@ -152,6 +157,7 @@
 *.knowyourmeme.com
 *.lanshack.com
 *.legion.org
+*.lemonde.fr
 *.libredd.it
 *.lidarusa.com
 *.liveleak.com
@@ -159,6 +165,7 @@
 *.ltn.com.tw
 *.lyricstranslate.com
 *.maketecheasier.com
+*.mastodon.social
 *.matrix.org
 *.mediafire.com
 *.medicalnewstoday.com
@@ -186,6 +193,7 @@
 *.oculuscdn.com
 *.oculus.com
 *.odysee.com
+onedrive.live.com
 *.openstreetmap.org
 *.openvpn.net
 *.pincong.rocks
@@ -219,9 +227,11 @@
 *.savefrom.link
 *.savefrom.net
 *.scmp.com
+*.seb117.fr
 *.setn.com
 *.shadowsocks.org
 *.shopee.tw
+*.singlelogin.se
 *.slate.com
 *.slideshare.net
 *.smule.com
@@ -242,6 +252,7 @@
 *.tablesgenerator.com
 *.t.co
 *.tdesktop.com
+*.techoverflow.net
 *.techradar.com
 *.telegram.org
 *.telegra.ph
@@ -252,6 +263,7 @@
 *.theintercept.com
 *.thepiratebay.org
 *.theverge.com
+*.tiktok.com
 *.tineye.com
 *.tlanyan.me
 *.t.me
@@ -291,6 +303,7 @@
 *.wikipedia.org
 *.wikivoyage.org
 *.wiktionary.org
+*.wireguard.com
 *.withgoogle.com
 *.yahoo.com
 *.ycombinator.com
@@ -301,4 +314,7 @@
 *.youtube-nocookie.com
 *.ytimg.com
 *.zenodo.org
+*.zlibrary-africa.se
+*.zlibrary-asia.se
+*.zlibrary-east.se
 ; END-BLOCKED-SECTION
