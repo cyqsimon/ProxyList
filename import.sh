@@ -7,7 +7,6 @@ set -e
 # inputs
 ##############################
 
-ALLOW_DIRTY="false"
 GIT_ROOT="$(git rev-parse --show-toplevel)"
 
 # handle arguments
@@ -16,7 +15,7 @@ for ARG in "$@"; do
     case "$ARG" in
         # flags
         --allow-dirty)
-            ALLOW_DIRTY="true"
+            ALLOW_DIRTY=1
             ;;
         # unknown flag
         --*)
@@ -52,7 +51,7 @@ for ARG in "$@"; do
 done
 
 # exit if source is dirty
-if [[ "$ALLOW_DIRTY" == "false" ]] && git ls-files --modified --error-unmatch "$SOURCE_PATH" >/dev/null 2>&1; then
+if [[ -z "$ALLOW_DIRTY" ]] && git ls-files --modified --error-unmatch "$SOURCE_PATH" >/dev/null 2>&1; then
     echo "$SOURCE_PATH is dirty; refusing to edit."
     exit 2
 fi
