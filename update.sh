@@ -10,10 +10,6 @@ set -e
 GIT_ROOT="$(git rev-parse --show-toplevel)"
 
 # handle arguments
-if [[ -z "$*" ]]; then
-    echo "A category must be provided"
-    exit 1
-fi
 # flags must come before positional argument
 for ARG in "$@"; do
     case "$ARG" in
@@ -56,6 +52,10 @@ for ARG in "$@"; do
             ;;
     esac
 done
+if [[ -z "$SOURCE_PATH" ]]; then
+    echo "A category must be provided"
+    exit 1
+fi
 
 # exit if source is dirty
 if [[ -z "$ALLOW_DIRTY" ]] && git ls-files --modified --error-unmatch "$SOURCE_PATH" >/dev/null 2>&1; then
