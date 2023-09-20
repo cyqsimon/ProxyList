@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# usage: cat new-lines.txt | ./import.sh blocked|redirect|slow
+# Synopsis: cat new-lines.txt | ./update.sh blocked|redirect|slow
 
 set -e
 
@@ -73,11 +73,18 @@ sed "/$BEGIN_TAG/q" "$SOURCE_PATH" >> "$TARGET_BUFFER"
 DATE="$(date +%m/%d/%Y)"
 sed -Ei "\\|; Date: [[:digit:]]+(/[[:digit:]]+){2}| s|[[:digit:]]+(/[[:digit:]]+){2}|$DATE|" "$TARGET_BUFFER"
 
-# preprocess, append, and sort
-PREPROCESS_BUFFER="$(mktemp -t 'ProxyList-preprocess.XXXXX')"
-cut -d ' ' -f 1 - > "$PREPROCESS_BUFFER"
-sed -n "/$BEGIN_TAG/,/$END_TAG/{//!p}" "$SOURCE_PATH" | cat - "$PREPROCESS_BUFFER" | sort >> "$TARGET_BUFFER"
-rm -f "$PREPROCESS_BUFFER"
+# buffer original
+SORT_BUFFER="$(mktemp -t 'Proxylist-sort.XXXXX')"
+sed -n "/$BEGIN_TAG/,/$END_TAG/{//!p}" "$SOURCE_PATH" >> "$SORT_BUFFER"
+
+# preprocess and buffer if there is data on stdin
+if read -t 0 -N 0; then
+  cut -d ' ' -f 1 - >> "$SORT_BUFFER"
+fi
+
+# sort and append buffer
+sort "$SORT_BUFFER" >> "$TARGET_BUFFER"
+rm -f "$SORT_BUFFER"
 
 # after end tag
 sed -n "/$END_TAG/,\${p}" "$SOURCE_PATH" >> "$TARGET_BUFFER"
