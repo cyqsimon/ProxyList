@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/18/2023
+; Date: 09/20/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -92,7 +92,7 @@
 *.endeavouros.com
 *.entermediadb.net
 *.eol.org
-*.eternalbox.dev
+*.eternalboxmirror.xyz
 *.expedia.com
 *.ezoiccdn.com
 *.fandom.com
