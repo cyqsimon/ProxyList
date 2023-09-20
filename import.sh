@@ -10,6 +10,10 @@ set -e
 GIT_ROOT="$(git rev-parse --show-toplevel)"
 
 # handle arguments
+if [[ -z "$*" ]]; then
+    echo "A category must be provided"
+    exit 1
+fi
 # flags must come before positional argument
 for ARG in "$@"; do
     case "$ARG" in
