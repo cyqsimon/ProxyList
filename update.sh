@@ -21,6 +21,9 @@ for ARG in "$@"; do
         --allow-dirty)
             ALLOW_DIRTY=1
             ;;
+        --no-update-time)
+            NO_UPDATE_TIME=1
+            ;;
         # unknown flag
         --*)
             echo "Unknown flag: \"$ARG\""
@@ -70,8 +73,10 @@ TARGET_BUFFER="$(mktemp -t 'ProxyList-target.XXXXX')"
 sed "/$BEGIN_TAG/q" "$SOURCE_PATH" >> "$TARGET_BUFFER"
 
 # update date
-DATE="$(date +%m/%d/%Y)"
-sed -Ei "\\|; Date: [[:digit:]]+(/[[:digit:]]+){2}| s|[[:digit:]]+(/[[:digit:]]+){2}|$DATE|" "$TARGET_BUFFER"
+if [[ -z "$NO_UPDATE_TIME" ]]; then
+    DATE="$(date +%m/%d/%Y)"
+    sed -Ei "\\|; Date: [[:digit:]]+(/[[:digit:]]+){2}| s|[[:digit:]]+(/[[:digit:]]+){2}|$DATE|" "$TARGET_BUFFER"
+fi
 
 # buffer original
 SORT_BUFFER="$(mktemp -t 'Proxylist-sort.XXXXX')"
