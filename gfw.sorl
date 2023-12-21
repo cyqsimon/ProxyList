@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/18/2023
+; Date: 12/21/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -29,6 +29,7 @@
 *.apkmirror.com
 *.apkpure.com
 *.appspot.com
+*.ar15.com
 *.archive.org
 *.bandwagonhost.com
 *.bannedbook.org
@@ -40,6 +41,8 @@
 *.blogger.com
 *.blogspot.*
 *.bloomberg.com
+*.botanicatours.com
+*.botanica.travel
 *.brave.com
 *.businessinsider.com
 *.cdninstagram.com
@@ -79,6 +82,7 @@
 *.economist.com
 *.edgecastcdn.net
 *.edgecast.com
+*.eff.org
 *.electrek.co
 *.epochtimes.com
 *.etsy.com
@@ -90,14 +94,17 @@
 *.factpedia.org
 *.fbcdn.net
 *.fb.com
+*.fbsbx.com
 *.fbthirdpartypixel.com
 *.fb.watch
+*.f-droid.org
 *.findyoutube.com
 *.flickr.com
 *.fosstodon.org
 *.freetls.fastly.net
 *.freewechat.com
 *.freeweibo.com
+*.ftchinese.com
 *.ft.com
 *.fuchsia.dev
 *.garudalinux.org
@@ -105,6 +112,7 @@
 *.getoutline.org
 *.gettyimages.com
 *.ggpht.com
+*.ghproxy.com
 *.githack.com
 *.githubassets.com
 *.github.blog
@@ -135,12 +143,15 @@
 *.gravatar.com
 *.greatfire.org
 *.gstatic.*
+hackage.haskell.org
 *.hackmd.io
 *.hide-ip-proxy.com
 *.hket.com
 *.hrw.org
 *.hsbc.co.uk
 *.html5rocks.com
+*.ign.com
+*.ignimgs.com
 *.imageglass.org
 *.imgur.com
 *.independent.co.uk
@@ -168,6 +179,7 @@
 *.mastodon.social
 *.matrix.org
 *.mediafire.com
+*.mediawiki.org
 *.medicalnewstoday.com
 *.medium.com
 *.mega.co.nz
@@ -234,6 +246,7 @@ onedrive.live.com
 *.singlelogin.se
 *.slate.com
 *.slideshare.net
+*.smh.com.au
 *.smule.com
 *.s-nbcnews.com
 *.sndcdn.com
@@ -248,6 +261,7 @@ onedrive.live.com
 *.steampowered.com
 *.storm.mg
 *.straitstimes.com
+*.substack.com
 *.sydneytoday.com
 *.tablesgenerator.com
 *.t.co
@@ -281,6 +295,7 @@ onedrive.live.com
 *.twitter.com
 *.uber.com
 *.urbandictionary.com
+*.v0.dev
 *.v2ex.com
 *.v2fly.org
 *.v2ray.com
@@ -298,13 +313,19 @@ onedrive.live.com
 *.wenxuecity.com
 *.wikibooks.org
 *.wikidata.org
+*.wikifunctions.org
 *.wikileaks.org
 *.wikimedia.org
+*.wikinews.org
 *.wikipedia.org
+*.wikiquote.org
+*.wikisource.org
+*.wikiversity.org
 *.wikivoyage.org
 *.wiktionary.org
 *.wireguard.com
 *.withgoogle.com
+*.wmflabs.org
 *.yahoo.com
 *.ycombinator.com
 *.yimg.com

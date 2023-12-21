@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/20/2023
+; Date: 12/21/2023
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -36,6 +36,7 @@
 *.bestbuy.com
 *.bevyengine.org
 *.biodigital.com
+*.biographics.org
 *.bit.ly
 *.bitly.com
 *.booking.com
@@ -50,6 +51,7 @@
 *.catbox.moe
 *.cdpn.io
 *.centos.org
+*.cesium.com
 *.chartbeat.net
 *.cheats.rs
 *.chessbase.com
@@ -72,6 +74,7 @@
 *.curiositystream.com
 *.cxense.com
 *.dart.dev
+*.datarundown.com
 *.dev.to
 *.dictionary.com
 *.diep.io
@@ -153,6 +156,7 @@ gitlab.archlinux.org
 *.imidc.com
 *.impossiblefoods.com
 *.internetdownloadmanager.com
+*.isc.org
 *.itch.io
 *.itsfoss.com
 *.jackli.gg
@@ -160,6 +164,8 @@ gitlab.archlinux.org
 *.jhu.edu
 *.jigsawplanet.com
 *.jquery.com
+*.jsdelivr.com
+*.jsdelivr.net
 *.jtvnw.net
 *.judge.me
 *.jwplayer.com
@@ -169,6 +175,7 @@ gitlab.archlinux.org
 *.keychron.com
 *.khanacademy.org
 *.khoros.com
+*.khronos.org
 *.killerfishgames.com
 *.knightlab.com
 *.kstrom.com
@@ -177,6 +184,7 @@ gitlab.archlinux.org
 *.lczero.org
 *.leapchat.org
 *.learnopengl.com
+*.libgit2.org
 *.libreoffice.org
 *.lichess1.org
 *.lichess.org
@@ -184,6 +192,7 @@ gitlab.archlinux.org
 *.linustechtips.com
 *.linux.com
 *.linuxize.com
+*.linuxmint.com
 *.linuxtechi.com
 *.lithium.com
 *.logitechg.com
@@ -206,6 +215,7 @@ gitlab.archlinux.org
 *.namecheap.com
 *.nano-editor.org
 *.nebula.app
+*.nebula.tv
 *.netgear.com
 *.netlimiter.com
 *.networkmanager.dev
@@ -232,6 +242,7 @@ gitlab.archlinux.org
 *.opensource.org
 *.openweb.com
 *.openwrt.org
+*.oracle.com
 *.osdn.net
 *.oup.com
 *.pagure.io
@@ -263,6 +274,7 @@ gitlab.archlinux.org
 *.refactoring.guru
 *.regex101.com
 *.regexr.com
+*.regular-expressions.info
 *.returnpath.com
 *.rocketcdn.me
 *.rocketlanguages.com
@@ -279,6 +291,8 @@ gitlab.archlinux.org
 *.searchpreview.de
 *.seasonic.com
 *.serverfault.com
+*.sfdict.com
+*.shadowmap.org
 *.shazam.com
 *.shinobi.video
 *.shipmap.org
@@ -296,6 +310,7 @@ gitlab.archlinux.org
 *.sstatic.net
 *.stackexchange.com
 *.stackoverflow.com
+*.stadiamaps.com
 *.starship.rs
 *.state.gov
 *.statically.io
@@ -314,6 +329,7 @@ gitlab.archlinux.org
 *.techtarget.com
 *.techtimes.com
 *.telerik.com
+*.thectwc.com
 *.thegeekdiary.com
 *.thelancet.com
 *.thermal-grizzly.com
@@ -325,6 +341,7 @@ gitlab.archlinux.org
 *.tomshardware.com
 *.tonedeaftest.com
 *.toornament.com
+*.tpucdn.com
 *.traefik.io
 *.travel-assets.com
 *.travian.com
@@ -365,6 +382,8 @@ gitlab.archlinux.org
 *.whoscored.com
 *.wikitravel.org
 *.winscp.net
+*.winudf.com
+*.wiredzone.com
 *.wolframalpha.com
 *.wolframcdn.com
 *.wolframcloud.com
