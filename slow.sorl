@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 12/21/2023
+; Date: 02/06/2024
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -116,6 +116,7 @@
 *.fosscord.com
 *.freedesktop.org
 *.freenas.org
+*.frontendmasters.com
 *.futurecdn.net
 *.fwupd.org
 *.gamemodels3d.com
@@ -291,9 +292,11 @@ gitlab.archlinux.org
 *.searchpreview.de
 *.seasonic.com
 *.serverfault.com
+*.servethehome.com
 *.sfdict.com
 *.shadowmap.org
 *.shazam.com
+*.shields.io
 *.shinobi.video
 *.shipmap.org
 *.shopifycdn.com
@@ -318,6 +321,9 @@ gitlab.archlinux.org
 *.streamscheme.com
 *.superuser.com
 *.surveymonkey.com
+*.svelte.dev
+*.sveltematerialui.com
+*.svelteui.org
 *.syncthing.net
 *.system76.com
 *.systemverilog.io
@@ -334,6 +340,7 @@ gitlab.archlinux.org
 *.thelancet.com
 *.thermal-grizzly.com
 *.thesaurus.com
+*.thessdreview.com
 *.thetypingcat.com
 *.theweekinchess.com
 *.tinyurl.com
@@ -359,6 +366,7 @@ gitlab.archlinux.org
 *.ui.com
 *.ultrabookreview.com
 *.un.org
+*.unpkg.com
 *.uoregon.edu
 *.upload.ac
 *.v8.dev
