@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 02/06/2024
+; Date: 06/20/2024
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -31,9 +31,11 @@
 *.android.com
 *.apkmirror.com
 *.apkpure.com
+*.apnews.com
 *.appspot.com
 *.ar15.com
 *.archive.org
+*.astrill.com
 *.bandwagonhost.com
 *.bannedbook.org
 *.bbc.com
@@ -52,6 +54,7 @@
 *.cdninstagram.com
 *.cdrtd.com
 *.change.org
+*.chicagotribune.com
 *.chinadigitaltimes.net
 *.chinafirewalltest.com
 *.chrome.com
@@ -127,6 +130,7 @@
 *.githubmemory.com
 *.githubusercontent.com
 *.gmail.com
+*.godaddy.com
 *.go.dev
 *.gofundme.com
 *.golang.org
@@ -150,14 +154,19 @@
 *.gstatic.*
 hackage.haskell.org
 *.hackmd.io
+*.happytowander.com
+*.hcaptcha.com
 *.hide-ip-proxy.com
+*.hindustantimes.com
 *.hket.com
 *.hrw.org
 *.hsbc.co.uk
 *.html5rocks.com
+*.huggingface.co
 *.ign.com
 *.ignimgs.com
 *.imageglass.org
+*.imgflip.com
 *.imgur.com
 *.independent.co.uk
 *.indiatoday.in
@@ -192,12 +201,14 @@ hackage.haskell.org
 *.me.me
 *.merlinblog.xyz
 *.mojim.com
+*.mvnrepository.com
 *.nationalinterest.org
 *.nbcnews.com
 *.ndtv.com
 *.neow.in
 *.neowin.net
 *.newhighlandvision.com
+*.news.com.au
 *.nextshark.com
 *.nicovideo.jp
 *.nikkei.com
@@ -213,6 +224,7 @@ hackage.haskell.org
 onedrive.live.com
 *.openstreetmap.org
 *.openvpn.net
+*.paritoshbh.me
 *.pincong.rocks
 *.pinimg.com
 *.pinterest.com
@@ -248,6 +260,7 @@ onedrive.live.com
 *.setn.com
 *.shadowsocks.org
 *.shopee.tw
+*.singlelogin.re
 *.singlelogin.se
 *.slate.com
 *.slideshare.net
@@ -256,6 +269,7 @@ onedrive.live.com
 *.s-nbcnews.com
 *.sndcdn.com
 *.snowfl.com
+*.solana.com
 *.soundcloud.com
 *.soundofhope.org
 *.spot.im
@@ -268,6 +282,7 @@ onedrive.live.com
 *.storm.mg
 *.straitstimes.com
 *.substack.com
+*.surfshark.com
 *.sydneytoday.com
 *.tablesgenerator.com
 *.t.co
@@ -293,6 +308,7 @@ onedrive.live.com
 *.transparency.org
 *.ttvnw.net
 *.tumblr.com
+*.tunnelblick.net
 *.twimg.com
 *.twitchcdn.net
 *.twitchcon.com
@@ -300,6 +316,7 @@ onedrive.live.com
 *.twitlonger.com
 *.twitter.com
 *.uber.com
+*.upcloud.com
 *.urbandictionary.com
 *.v0.dev
 *.v2ex.com
@@ -332,10 +349,13 @@ onedrive.live.com
 *.wireguard.com
 *.withgoogle.com
 *.wmflabs.org
+*.x.com
+*.xdaforums.com
 *.yahoo.com
 *.ycombinator.com
 *.yimg.com
 *.you.com
+*.yourdictionary.com
 *.youtu.be
 *.youtube.com
 *.youtube-nocookie.com
