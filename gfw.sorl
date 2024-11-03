@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 06/20/2024
+; Date: 11/03/2024
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -20,6 +20,7 @@
 ; Blocked Sites
 ; These sites are either banned by GFW or georestricted by site owner
 ; BEGIN-BLOCKED-SECTION
+*.1337xto.to
 *.9cache.com
 *.9gag.com
 *.9to5google.com
@@ -38,6 +39,7 @@
 *.astrill.com
 *.bandwagonhost.com
 *.bannedbook.org
+*.bazel.build
 *.bbc.com
 *.bbc.co.uk
 *.bbci.co.uk
@@ -51,6 +53,7 @@
 *.botanica.travel
 *.brave.com
 *.businessinsider.com
+*.carsized.com
 *.cdninstagram.com
 *.cdrtd.com
 *.change.org
@@ -120,6 +123,7 @@
 *.gettyimages.com
 *.gfw.report
 *.ggpht.com
+*.ghcr.io
 *.ghproxy.com
 *.githack.com
 *.githubassets.com
@@ -198,6 +202,7 @@ hackage.haskell.org
 *.medium.com
 *.mega.co.nz
 *.mega.io
+*.mega.nz
 *.me.me
 *.merlinblog.xyz
 *.mojim.com
@@ -346,6 +351,7 @@ onedrive.live.com
 *.wikiversity.org
 *.wikivoyage.org
 *.wiktionary.org
+*.winstall.app
 *.wireguard.com
 *.withgoogle.com
 *.wmflabs.org
@@ -360,6 +366,8 @@ onedrive.live.com
 *.youtube.com
 *.youtube-nocookie.com
 *.ytimg.com
+*.zdassets.com
+*.zendesk.com
 *.zenodo.org
 *.zlibrary-africa.se
 *.zlibrary-asia.se

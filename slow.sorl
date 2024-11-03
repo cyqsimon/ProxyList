@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 06/20/2024
+; Date: 11/03/2024
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -68,6 +68,7 @@
 *.consensu.org
 *.cookielaw.org
 *.coral.ai
+*.cppreference.com
 *.cpuid.com
 *.crowdsec.net
 *.cryorig.com
@@ -205,6 +206,7 @@ gitlab.archlinux.org
 *.mailchimp.com
 *.manjaro.org
 *.media-amazon.com
+*.meilisearch.com
 *.memtest86.com
 *.microcenter.com
 *.midjourney.com
@@ -250,6 +252,7 @@ gitlab.archlinux.org
 *.osdn.net
 *.oup.com
 *.pagure.io
+*.pagure.org
 *.patreon.com
 *.pbs.org
 *.pcmag.com
