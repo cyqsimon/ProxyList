@@ -87,8 +87,8 @@ if read -t 0 -N 0; then
   cut -d ' ' -f 1 - >> "$SORT_BUFFER"
 fi
 
-# sort and append buffer
-sort "$SORT_BUFFER" >> "$TARGET_BUFFER"
+# filter, sort, and append buffer
+sed -E '/^\s*$/d' "$SORT_BUFFER" | sort >> "$TARGET_BUFFER"
 rm -f "$SORT_BUFFER"
 
 # after end tag
