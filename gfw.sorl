@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 01/02/2025
+; Date: 02/27/2025
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -56,6 +56,7 @@
 *.brave.com
 *.businessinsider.com
 *.carsized.com
+*.cbc.ca
 *.cdninstagram.com
 *.cdrtd.com
 *.change.org
@@ -72,6 +73,7 @@
 *.cnn.com
 *.cnn.io
 *.comparitech.com
+*.cpu-monkey.com
 *.craiyon.com
 *.crbug.com
 *.cubbit.io
@@ -111,6 +113,7 @@
 *.fb.watch
 *.f-droid.org
 *.findyoutube.com
+*.fivethirtyeight.com
 *.flickr.com
 *.fosstodon.org
 *.freetls.fastly.net
@@ -169,6 +172,7 @@ hackage.haskell.org
 *.hsbc.co.uk
 *.html5rocks.com
 *.huggingface.co
+*.iana.org
 *.ign.com
 *.ignimgs.com
 *.imageglass.org
@@ -180,9 +184,11 @@ hackage.haskell.org
 *.invidious.snopyta.org
 *.itemfix.com
 *.itlanyan.com
+*.ivpn.net
 *.jsfiddle.net
 *.jw-cdn.org
 *.jw.org
+*.keyxl.com
 *.kgs.link
 *.kienizer.com
 *.knowyourmeme.com
@@ -221,6 +227,7 @@ hackage.haskell.org
 *.nikkei.com
 *.nordvpn.com
 *.notepad-plus-plus.org
+*.nrk.no
 *.ntdtv.com
 *.nypost.com
 *.nyt.com
@@ -232,11 +239,13 @@ onedrive.live.com
 *.openstreetmap.org
 *.openvpn.net
 *.paritoshbh.me
+*.pc-builds.com
 *.pincong.rocks
 *.pinimg.com
 *.pinterest.com
 *.pixiv.net
 *.pki.goog
+*.politico.eu
 *.privateinternetaccess.com
 *.privoxy.org
 *.programmersought.com
@@ -253,7 +262,9 @@ onedrive.live.com
 *.redd.it
 *.reddit.com
 *.redditmedia.com
+*.redditspace.com
 *.redditstatic.com
+*.redgifs.com
 *.resilio.com
 *.restoreprivacy.com
 *.reuters.com
@@ -305,6 +316,8 @@ onedrive.live.com
 *.theintercept.com
 *.thepiratebay.org
 *.theverge.com
+*.threads.net
+*.tiktokcdn-us.com
 *.tiktok.com
 *.tineye.com
 *.tlanyan.me
@@ -312,6 +325,7 @@ onedrive.live.com
 *.torproject.org
 *.torrentkitty.tv
 *.tothenew.com
+*.translate.goog
 *.transparency.org
 *.ttvnw.net
 *.tumblr.com
@@ -331,12 +345,14 @@ onedrive.live.com
 *.v2ray.com
 *.vanilla-js.com
 *.vercel.app
+*.vice.com
 *.vimeo.com
 *.voachinese.com
 *.voanews.com
 *.vox-cdn.com
 *.vox.com
 *.voy.com
+*.vpn.ac
 *.washingtonpost.com
 *.webpkgcache.com
 *.webrtc.org
