@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 02/27/2025
+; Date: 09/17/2025
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -91,11 +91,13 @@
 *.discourse.org
 *.diskanalyzer.com
 *.distrowatch.com
+*.diveino.hu
 *.dmm.com
 *.docs.rs
 *.eclerx.com
 *.ecma-international.org
 *.eep.io
+*.egui.rs
 *.electronjs.org
 *.endeavouros.com
 *.entermediadb.net
@@ -174,6 +176,7 @@ gitlab.archlinux.org
 *.jquery.com
 *.jsdelivr.com
 *.jsdelivr.net
+*.json-schema.org
 *.jtvnw.net
 *.judge.me
 *.jwplayer.com
@@ -194,6 +197,7 @@ gitlab.archlinux.org
 *.learnopengl.com
 *.libgit2.org
 *.libreoffice.org
+*.lib.rs
 *.lichess1.org
 *.lichess.org
 *.lichess.ovh
@@ -262,6 +266,7 @@ gitlab.archlinux.org
 *.pcpartpicker.com
 *.picpick.app
 *.picpick.org
+*.pingcap.com
 *.pix4d.com
 *.pling.com
 *.postimages.org
@@ -286,6 +291,7 @@ gitlab.archlinux.org
 *.regexr.com
 *.regular-expressions.info
 *.returnpath.com
+*.revanced.app
 *.rocketcdn.me
 *.rocketlanguages.com
 *.rockstor.com
@@ -297,6 +303,7 @@ gitlab.archlinux.org
 *.salesforce.com
 *.sass-lang.com
 *.sassmeister.com
+*.scdn.co
 *.scdn.co
 *.screen-play.app
 *.searchpreview.de
@@ -320,7 +327,9 @@ gitlab.archlinux.org
 *.smassets.net
 *.sourceforge.net
 *.spacex.com
+*.spotifycdn.com
 *.spotify.com
+*.spring.io
 *.squarespace.com
 *.ssl.com
 *.ssl-images-amazon.com
@@ -370,6 +379,7 @@ gitlab.archlinux.org
 *.travian.com
 *.tripadvisor.com
 *.tripadvisor.co.uk
+*.tripadvisorsupport.com
 *.tripodcloud.com
 *.truenas.com
 *.turbotekcomputer.com
@@ -401,6 +411,7 @@ gitlab.archlinux.org
 *.wargaming.net
 *.watchnebula.com
 *.webflow.com
+*.website-files.com
 *.westerndigital.com
 *.wgcdn.co
 *.whoscored.com

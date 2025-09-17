@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 02/27/2025
+; Date: 09/17/2025
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -36,6 +36,7 @@
 *.apkpure.com
 *.apnews.com
 *.appspot.com
+*.aquatecgroup.com
 *.ar15.com
 *.archive.org
 *.astrill.com
@@ -47,6 +48,7 @@
 *.bbci.co.uk
 *.bellingcat.com
 *.betterprogramming.pub
+*.bittorrent.com
 *.blogblog.com
 *.blogger.com
 *.blogspot.*
@@ -78,6 +80,7 @@
 *.crbug.com
 *.cubbit.io
 *.dailymail.co.uk
+*.depop.com
 *.discordapp.com
 *.discordapp.net
 *.discord.com
@@ -87,9 +90,11 @@
 *.disquscdn.com
 *.disqus.com
 *.docker.com
+*.dockerstatic.com
 *.dongtaiwang.com
 *.dropbox.com
 *.dropboxstatic.com
+*.dropboxusercontent.com
 *.duckduckgo.com
 *.duyaoss.com
 *.dw.com
@@ -130,6 +135,7 @@
 *.ggpht.com
 *.ghcr.io
 *.ghproxy.com
+*.gitbook.io
 *.githack.com
 *.githubassets.com
 *.github.blog
@@ -168,6 +174,7 @@ hackage.haskell.org
 *.hide-ip-proxy.com
 *.hindustantimes.com
 *.hket.com
+*.host.md
 *.hrw.org
 *.hsbc.co.uk
 *.html5rocks.com
@@ -238,6 +245,7 @@ hackage.haskell.org
 onedrive.live.com
 *.openstreetmap.org
 *.openvpn.net
+*.ovpn.com
 *.paritoshbh.me
 *.pc-builds.com
 *.pincong.rocks
@@ -303,6 +311,7 @@ onedrive.live.com
 *.surfshark.com
 *.sydneytoday.com
 *.tablesgenerator.com
+*.taipeitimes.com
 *.t.co
 *.tdesktop.com
 *.techoverflow.net
@@ -357,6 +366,7 @@ onedrive.live.com
 *.webpkgcache.com
 *.webrtc.org
 *.wenxuecity.com
+*.wfaa.com
 *.wikibooks.org
 *.wikidata.org
 *.wikifunctions.org
