@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Synopsis: cat new-lines.txt | ./update.sh blocked|redirect|slow
+# Synopsis: ./update.sh blocked|redirect|slow < new-lines.txt
 
 set -e
 
