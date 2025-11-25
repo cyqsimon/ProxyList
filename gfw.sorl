@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/17/2025
+; Date: 11/25/2025
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -32,6 +32,7 @@
 *.amp-what.com
 *.amzn.to
 *.android.com
+*.annas-archive.org
 *.apkmirror.com
 *.apkpure.com
 *.apnews.com
@@ -67,6 +68,7 @@
 *.chinafirewalltest.com
 *.chrome.com
 *.chromestatus.com
+*.cia.gov
 *.cla-assistant.io
 *.cloudfunctions.net
 *.cloudwafer.com
@@ -106,6 +108,7 @@
 *.epochtimes.com
 *.etsy.com
 *.euronews.com
+*.express.co.uk
 *.expressvpn.com
 *.expressvpn.xyz
 *.ext-twitch.tv
@@ -121,6 +124,7 @@
 *.fivethirtyeight.com
 *.flickr.com
 *.fosstodon.org
+*.freeradical.zone
 *.freetls.fastly.net
 *.freewechat.com
 *.freeweibo.com
@@ -178,8 +182,12 @@ hackage.haskell.org
 *.hrw.org
 *.hsbc.co.uk
 *.html5rocks.com
+*.huffingtonpost.com
+*.huffingtonpost.co.uk
+*.huffpost.com
 *.huggingface.co
 *.iana.org
+*.ibb.co
 *.ign.com
 *.ignimgs.com
 *.imageglass.org
@@ -265,6 +273,7 @@ onedrive.live.com
 *.pximg.net
 *.quoracdn.net
 *.quora.com
+*.rair.dev
 *.rawgit.com
 *.redbubble.com
 *.redd.it
@@ -279,6 +288,7 @@ onedrive.live.com
 *.rferl.org
 *.rfi.fr
 *.riseup.net
+*.rubdos.be
 *.savefrom.link
 *.savefrom.net
 *.scmp.com
@@ -383,6 +393,8 @@ onedrive.live.com
 *.wireguard.com
 *.withgoogle.com
 *.wmflabs.org
+*.workers.dev
+*.w.wiki
 *.x.com
 *.xdaforums.com
 *.yahoo.com
@@ -397,6 +409,7 @@ onedrive.live.com
 *.zdassets.com
 *.zendesk.com
 *.zenodo.org
+*.z-lib.fm
 *.zlibrary-africa.se
 *.zlibrary-asia.se
 *.zlibrary-east.se

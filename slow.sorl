@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/17/2025
+; Date: 11/25/2025
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -45,6 +45,7 @@
 *.bootstrapcdn.com
 *.bose.com
 *.brightcove.com
+*.brown.edu
 *.bstatic.com
 *.butlerfortrello.com
 *.campaignlive.co.uk
@@ -59,6 +60,7 @@
 *.chessbase.com
 *.chess.com
 *.chesstempo.com
+*.chezmoi.io
 *.chrome-extension-downloader.com
 *.cloudflare.com
 *.cloudfront.net
@@ -83,6 +85,7 @@
 *.dev.to
 *.dictionary.com
 *.diep.io
+*.diesel.rs
 *.digdig.io
 *.digitalocean.com
 *.digitaloceanspaces.com
@@ -114,6 +117,7 @@
 *.fileinfo.com
 *.filestackapi.com
 *.filestack.com
+*.firefox.com
 *.flashgamearchive.com
 *.flathub.org
 *.flaticon.com
@@ -152,6 +156,7 @@ gitlab.archlinux.org
 *.guerrillamail.com
 *.guim.co.uk
 *.handbrake.fr
+*.handlebarsjs.com
 *.haproxy.com
 *.haproxy.org
 *.healthdata.org
@@ -219,8 +224,10 @@ gitlab.archlinux.org
 *.midjourney.com
 *.mikrotik.com
 *.minecraft.net
+*.mingw-w64.org
 *.miniclipcdn.com
 *.miniclip.com
+*.mirrorz.org
 *.monkeytype.com
 *.mozilla.org
 *.mt.lv
@@ -251,6 +258,7 @@ gitlab.archlinux.org
 *.openai.com
 *.opendesktop.org
 *.openhub.net
+*.openshift.com
 *.opensource.com
 *.opensource.org
 *.openweb.com
@@ -274,6 +282,7 @@ gitlab.archlinux.org
 *.postlmg.cc
 *.prismic.io
 *.proships.ru
+*.pypi.org
 *.python.org
 *.qbittorrent.org
 *.qr-code-generator.com
@@ -290,6 +299,7 @@ gitlab.archlinux.org
 *.regex101.com
 *.regexr.com
 *.regular-expressions.info
+*.releases.rs
 *.returnpath.com
 *.revanced.app
 *.rocketcdn.me
@@ -306,6 +316,7 @@ gitlab.archlinux.org
 *.scdn.co
 *.scdn.co
 *.screen-play.app
+*.sea-ql.org
 *.searchpreview.de
 *.seasonic.com
 *.serverfault.com
@@ -359,6 +370,7 @@ gitlab.archlinux.org
 *.techtarget.com
 *.techtimes.com
 *.telerik.com
+*.the18.com
 *.thectwc.com
 *.thegeekdiary.com
 *.thelancet.com
@@ -382,8 +394,10 @@ gitlab.archlinux.org
 *.tripadvisorsupport.com
 *.tripodcloud.com
 *.truenas.com
+*.trustarc.com
 *.turbotekcomputer.com
 *.turnto.com
+*.turso.tech
 *.tutorialspoint.com
 *.tuxedocomputers.com
 *.tvnz.co.nz
