@@ -47,6 +47,7 @@
 *.bbc.com
 *.bbc.co.uk
 *.bbci.co.uk
+*.b-cdn.net
 *.bellingcat.com
 *.betterprogramming.pub
 *.bittorrent.com
@@ -60,6 +61,7 @@
 *.businessinsider.com
 *.carsized.com
 *.cbc.ca
+*.cdn-cookieyes.com
 *.cdninstagram.com
 *.cdrtd.com
 *.change.org
@@ -68,12 +70,14 @@
 *.chinafirewalltest.com
 *.chrome.com
 *.chromestatus.com
+*.chromium.org
 *.cia.gov
 *.cla-assistant.io
 *.cloudfunctions.net
 *.cloudwafer.com
 *.cms-twdigitalassets.com
 *.cna.com.tw
+*.cnd.org
 *.cnn.com
 *.cnn.io
 *.comparitech.com
@@ -97,6 +101,7 @@
 *.dropbox.com
 *.dropboxstatic.com
 *.dropboxusercontent.com
+*.dtic.mil
 *.duckduckgo.com
 *.duyaoss.com
 *.dw.com
@@ -124,6 +129,7 @@
 *.fivethirtyeight.com
 *.flickr.com
 *.fosstodon.org
+*.fox32chicago.com
 *.freeradical.zone
 *.freetls.fastly.net
 *.freewechat.com
@@ -145,6 +151,7 @@
 *.github.blog
 *.github.co
 *.github.com
+*.githubcopilot.com
 *.github.io
 *.githubmemory.com
 *.githubusercontent.com
@@ -165,12 +172,14 @@
 *.googlesource.com
 *.googlesyndication.com
 *.googletagmanager.com
+*.googletagmanager.com
 *.googleusercontent.*
 *.googlevideo.com
 *.gov.tw
 *.gravatar.com
 *.greatfire.org
 *.gstatic.*
+*.guildwars2.com
 hackage.haskell.org
 *.hackmd.io
 *.happytowander.com
@@ -188,6 +197,7 @@ hackage.haskell.org
 *.huggingface.co
 *.iana.org
 *.ibb.co
+*.ifunny.co
 *.ign.com
 *.ignimgs.com
 *.imageglass.org
@@ -200,6 +210,7 @@ hackage.haskell.org
 *.itemfix.com
 *.itlanyan.com
 *.ivpn.net
+*.japan-forward.com
 *.jsfiddle.net
 *.jw-cdn.org
 *.jw.org
@@ -207,11 +218,13 @@ hackage.haskell.org
 *.kgs.link
 *.kienizer.com
 *.knowyourmeme.com
+*.ksat.com
 *.lanshack.com
 *.legion.org
 *.lemonde.fr
 *.libredd.it
 *.lidarusa.com
+*.linuxiac.com
 *.liveleak.com
 *.lonewolfonline.net
 *.ltn.com.tw
@@ -228,6 +241,7 @@ hackage.haskell.org
 *.mega.nz
 *.me.me
 *.merlinblog.xyz
+mesaauthor.dit-inc.us
 *.mojim.com
 *.mvnrepository.com
 *.nationalinterest.org
@@ -251,10 +265,13 @@ hackage.haskell.org
 *.oculus.com
 *.odysee.com
 onedrive.live.com
+*.opb.org
 *.openstreetmap.org
 *.openvpn.net
 *.ovpn.com
+*.packit.dev
 *.paritoshbh.me
+*.paypal.com
 *.pc-builds.com
 *.pincong.rocks
 *.pinimg.com
@@ -289,6 +306,7 @@ onedrive.live.com
 *.rfi.fr
 *.riseup.net
 *.rubdos.be
+*.runningversity.com
 *.savefrom.link
 *.savefrom.net
 *.scmp.com
@@ -319,6 +337,7 @@ onedrive.live.com
 *.straitstimes.com
 *.substack.com
 *.surfshark.com
+*.swissmakers.ch
 *.sydneytoday.com
 *.tablesgenerator.com
 *.taipeitimes.com
@@ -330,6 +349,7 @@ onedrive.live.com
 *.telegra.ph
 *.telesco.pe
 *.tenor.com
+*.thecarousel.com
 *.theguardian.com
 *.thehindu.com
 *.theintercept.com
@@ -358,6 +378,7 @@ onedrive.live.com
 *.uber.com
 *.upcloud.com
 *.urbandictionary.com
+*.usatoday.com
 *.v0.dev
 *.v2ex.com
 *.v2fly.org
@@ -366,6 +387,7 @@ onedrive.live.com
 *.vercel.app
 *.vice.com
 *.vimeo.com
+*.vless.dev
 *.voachinese.com
 *.voanews.com
 *.vox-cdn.com

@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/25/2025
+; Date: 05/28/2026
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -48,6 +48,7 @@
 *.brown.edu
 *.bstatic.com
 *.butlerfortrello.com
+*.caddy.community
 *.campaignlive.co.uk
 *.caniuse.com
 *.caniuse.rs
@@ -64,6 +65,7 @@
 *.chrome-extension-downloader.com
 *.cloudflare.com
 *.cloudfront.net
+*.codeberg.org
 *.codecademy.com
 *.codepen.io
 *.coderwall.com
@@ -95,6 +97,7 @@
 *.diskanalyzer.com
 *.distrowatch.com
 *.diveino.hu
+*.divetalk.com
 *.dmm.com
 *.docs.rs
 *.eclerx.com
@@ -220,6 +223,7 @@ gitlab.archlinux.org
 *.media-amazon.com
 *.meilisearch.com
 *.memtest86.com
+*.mesonbuild.com
 *.microcenter.com
 *.midjourney.com
 *.mikrotik.com
@@ -228,6 +232,7 @@ gitlab.archlinux.org
 *.miniclipcdn.com
 *.miniclip.com
 *.mirrorz.org
+*.mmcdn.com
 *.monkeytype.com
 *.mozilla.org
 *.mt.lv
@@ -243,6 +248,7 @@ gitlab.archlinux.org
 *.newegg.com
 *.neweggimages.com
 *.newmediacampaigns.com
+*.nist.gov
 *.nitrome.com
 *.nocookie.net
 *.noctua.at
@@ -277,6 +283,7 @@ gitlab.archlinux.org
 *.pingcap.com
 *.pix4d.com
 *.pling.com
+*.podman.io
 *.postimages.org
 *.postimg.cc
 *.postlmg.cc
@@ -287,6 +294,7 @@ gitlab.archlinux.org
 *.qbittorrent.org
 *.qr-code-generator.com
 *.quad9.net
+*.quay.io
 *.radxa.com
 *.rameerez.com
 *.raspberrypi.org
@@ -323,6 +331,7 @@ gitlab.archlinux.org
 *.server-world.info
 *.servethehome.com
 *.sfdict.com
+*.sftpgo.com
 *.shademap.app
 *.shadowmap.org
 *.shazam.com
@@ -403,6 +412,8 @@ gitlab.archlinux.org
 *.tvnz.co.nz
 *.typekit.net
 *.ubuntubudgie.org
+*.ubuntu.com
+*.ubuntuforums.org
 *.ui.com
 *.ultrabookreview.com
 *.un.org
