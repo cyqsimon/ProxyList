@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/25/2025
+; Date: 05/28/2026
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -32,7 +32,7 @@
 *.amp-what.com
 *.amzn.to
 *.android.com
-*.annas-archive.org
+*.annas-archive.*
 *.apkmirror.com
 *.apkpure.com
 *.apnews.com
@@ -409,7 +409,7 @@ onedrive.live.com
 *.zdassets.com
 *.zendesk.com
 *.zenodo.org
-*.z-lib.fm
+*.z-lib.*
 *.zlibrary-africa.se
 *.zlibrary-asia.se
 *.zlibrary-east.se
