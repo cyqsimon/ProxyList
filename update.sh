@@ -53,7 +53,7 @@ for ARG in "$@"; do
     esac
 done
 if [[ -z "$SOURCE_PATH" ]]; then
-    echo "A category must be provided"
+    echo "A category must be provided: [blocked|redirect|slow]"
     exit 1
 fi
 
