@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 05/28/2026
+; Date: 08/10/2026
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -23,6 +23,7 @@
 ; These sites are either banned by GFW or georestricted by site owner
 ; BEGIN-BLOCKED-SECTION
 *.1337xto.to
+*.1337xx.to
 *.9cache.com
 *.9gag.com
 *.9to5google.com
@@ -58,6 +59,9 @@
 *.botanicatours.com
 *.botanica.travel
 *.brave.com
+*.bsky.app
+*.bsky.network
+*.bsky.social
 *.businessinsider.com
 *.carsized.com
 *.cbc.ca
@@ -138,6 +142,7 @@
 *.ft.com
 *.fuchsia.dev
 *.garudalinux.org
+*.g.co
 *.genius.com
 *.getoutline.org
 *.gettyimages.com
@@ -230,6 +235,7 @@ hackage.haskell.org
 *.ltn.com.tw
 *.lyricstranslate.com
 *.maketecheasier.com
+*.mastodon.online
 *.mastodon.social
 *.matrix.org
 *.mediafire.com
@@ -250,7 +256,9 @@ mesaauthor.dit-inc.us
 *.neow.in
 *.neowin.net
 *.newhighlandvision.com
+*.newsapis.co.uk
 *.news.com.au
+*.news.co.uk
 *.nextshark.com
 *.nicovideo.jp
 *.nikkei.com
@@ -330,6 +338,7 @@ onedrive.live.com
 *.spys.one
 *.ssr.tools
 *.stackpath.com
+*.staging-thesun.co.uk
 *.steamcommunity.com
 *.steampowered.com
 *.steemit.com
@@ -343,6 +352,7 @@ onedrive.live.com
 *.taipeitimes.com
 *.t.co
 *.tdesktop.com
+*.techfixated.com
 *.techoverflow.net
 *.techradar.com
 *.telegram.org
@@ -354,6 +364,8 @@ onedrive.live.com
 *.thehindu.com
 *.theintercept.com
 *.thepiratebay.org
+*.the-sun.com
+*.thesun.co.uk
 *.theverge.com
 *.threads.net
 *.tiktokcdn-us.com
@@ -362,6 +374,7 @@ onedrive.live.com
 *.tlanyan.me
 *.t.me
 *.torproject.org
+*.torrentgalaxy.mx
 *.torrentkitty.tv
 *.tothenew.com
 *.translate.goog
