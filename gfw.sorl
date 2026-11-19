@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 08/10/2026
+; Date: 11/19/2026
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of banned (or not practically usable) sites in China
 ; Fuck GFW.
@@ -28,7 +28,9 @@
 *.9gag.com
 *.9to5google.com
 *.abc.net.au
+*.af.mil
 *.alacritty.org
+*.aljazeera.com
 *.amnesty.org
 *.amp-what.com
 *.amzn.to
@@ -68,7 +70,9 @@
 *.cdn-cookieyes.com
 *.cdninstagram.com
 *.cdrtd.com
+*.changenow.io
 *.change.org
+*.chatgpt.com
 *.chicagotribune.com
 *.chinadigitaltimes.net
 *.chinafirewalltest.com
@@ -84,12 +88,14 @@
 *.cnd.org
 *.cnn.com
 *.cnn.io
+*.coinbase.com
 *.comparitech.com
 *.cpu-monkey.com
 *.craiyon.com
 *.crbug.com
 *.cubbit.io
 *.dailymail.co.uk
+*.defense.gov
 *.depop.com
 *.discordapp.com
 *.discordapp.net
@@ -100,6 +106,7 @@
 *.disquscdn.com
 *.disqus.com
 *.docker.com
+*.docker.io
 *.dockerstatic.com
 *.dongtaiwang.com
 *.dropbox.com
@@ -114,6 +121,7 @@
 *.edgecast.com
 *.eff.org
 *.electrek.co
+*.elpais.com
 *.epochtimes.com
 *.etsy.com
 *.euronews.com
@@ -134,6 +142,7 @@
 *.flickr.com
 *.fosstodon.org
 *.fox32chicago.com
+*.freebrowser.org
 *.freeradical.zone
 *.freetls.fastly.net
 *.freewechat.com
@@ -144,6 +153,8 @@
 *.garudalinux.org
 *.g.co
 *.genius.com
+*.getgpt.pro
+*.getmonero.org
 *.getoutline.org
 *.gettyimages.com
 *.gfw.report
@@ -183,11 +194,13 @@
 *.gov.tw
 *.gravatar.com
 *.greatfire.org
+*.greatfirevpn.com
 *.gstatic.*
 *.guildwars2.com
 hackage.haskell.org
 *.hackmd.io
 *.happytowander.com
+*.hashvault.pro
 *.hcaptcha.com
 *.hide-ip-proxy.com
 *.hindustantimes.com
@@ -223,6 +236,7 @@ hackage.haskell.org
 *.kgs.link
 *.kienizer.com
 *.knowyourmeme.com
+*.kraken.com
 *.ksat.com
 *.lanshack.com
 *.legion.org
@@ -230,6 +244,7 @@ hackage.haskell.org
 *.libredd.it
 *.lidarusa.com
 *.linuxiac.com
+*.livegore.com
 *.liveleak.com
 *.lonewolfonline.net
 *.ltn.com.tw
@@ -265,6 +280,7 @@ mesaauthor.dit-inc.us
 *.nordvpn.com
 *.notepad-plus-plus.org
 *.nrk.no
+*.nsa.gov
 *.ntdtv.com
 *.nypost.com
 *.nyt.com
@@ -309,6 +325,7 @@ onedrive.live.com
 *.redgifs.com
 *.resilio.com
 *.restoreprivacy.com
+*.retoswap.com
 *.reuters.com
 *.rferl.org
 *.rfi.fr
@@ -318,7 +335,9 @@ onedrive.live.com
 *.savefrom.link
 *.savefrom.net
 *.scmp.com
+*.seatemperature.org
 *.seb117.fr
+*.sethforprivacy.com
 *.setn.com
 *.shadowsocks.org
 *.shopee.tw
@@ -344,6 +363,7 @@ onedrive.live.com
 *.steemit.com
 *.storm.mg
 *.straitstimes.com
+*.stripe.com
 *.substack.com
 *.surfshark.com
 *.swissmakers.ch
@@ -364,12 +384,14 @@ onedrive.live.com
 *.thehindu.com
 *.theintercept.com
 *.thepiratebay.org
+*.thestandard.com.hk
 *.the-sun.com
 *.thesun.co.uk
 *.theverge.com
 *.threads.net
 *.tiktokcdn-us.com
 *.tiktok.com
+*.tiktokv.us
 *.tineye.com
 *.tlanyan.me
 *.t.me
@@ -377,6 +399,7 @@ onedrive.live.com
 *.torrentgalaxy.mx
 *.torrentkitty.tv
 *.tothenew.com
+*.tradingview.com
 *.translate.goog
 *.transparency.org
 *.ttvnw.net
@@ -391,6 +414,7 @@ onedrive.live.com
 *.uber.com
 *.upcloud.com
 *.urbandictionary.com
+*.usa.gov
 *.usatoday.com
 *.v0.dev
 *.v2ex.com
@@ -412,6 +436,8 @@ onedrive.live.com
 *.webrtc.org
 *.wenxuecity.com
 *.wfaa.com
+*.whatsapp.com
+*.whatsapp.net
 *.wikibooks.org
 *.wikidata.org
 *.wikifunctions.org
@@ -421,6 +447,7 @@ onedrive.live.com
 *.wikipedia.org
 *.wikiquote.org
 *.wikisource.org
+*.wikiunblocked.org
 *.wikiversity.org
 *.wikivoyage.org
 *.wiktionary.org

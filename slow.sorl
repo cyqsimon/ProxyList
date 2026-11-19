@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 08/10/2026
+; Date: 11/19/2026
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 ; Description: An abridged list of accessible but slow sites in China
 ; Fuck GFW.
@@ -29,6 +29,8 @@
 *.archlinuxcn.org
 *.arctic.de
 *.armorgames.com
+*.arstechnica.com
+*.arstechnica.net
 *.askubuntu.com
 *.aslain.com
 *.atypon.com
@@ -53,10 +55,12 @@
 *.caniuse.com
 *.caniuse.rs
 *.catbox.moe
+*.cateee.net
 *.cdpn.io
 *.centos.org
 *.cesium.com
 *.chartbeat.net
+chat.rockylinux.org
 *.cheats.rs
 *.chessbase.com
 *.chess.com
@@ -76,6 +80,7 @@
 *.cppreference.com
 *.cpubenchmark.net
 *.cpuid.com
+*.crates.io
 *.crowdsec.net
 *.cryorig.com
 *.ctfassets.net
@@ -109,6 +114,7 @@
 *.entermediadb.net
 *.eol.org
 *.eternalboxmirror.xyz
+*.excalidraw.com
 *.expedia.com
 *.ezoiccdn.com
 *.fandom.com
@@ -150,6 +156,7 @@ gitlab.archlinux.org
 *.gitlab-static.net
 *.git-lfs.com
 *.gitter.im
+*.glpi-project.org
 *.gnome.org
 *.godbolt.org
 *.gog.com
@@ -233,8 +240,10 @@ gitlab.archlinux.org
 *.miniclipcdn.com
 *.miniclip.com
 *.mirrorz.org
+*.mit.edu
 *.mmcdn.com
 *.monkeytype.com
+*.mozilla.net
 *.mozilla.org
 *.mt.lv
 *.muscache.com
@@ -249,6 +258,7 @@ gitlab.archlinux.org
 *.newegg.com
 *.neweggimages.com
 *.newmediacampaigns.com
+*.newreleases.io
 *.nist.gov
 *.nitrome.com
 *.nocookie.net
@@ -424,6 +434,7 @@ gitlab.archlinux.org
 *.upload.ac
 *.v8.dev
 *.validity.com
+*.valmdiversbohol.com
 *.v-fonts.com
 *.vidyard.com
 *.vimeocdn.com
